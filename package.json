@@ -1,0 +1,14 @@
+{
+  "name": "explore-overrides",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@adobe/spacecat-shared-rum-api-client": "^2.37.6"
+  }
+}
