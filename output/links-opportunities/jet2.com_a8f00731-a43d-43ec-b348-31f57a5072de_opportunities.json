@@ -1,0 +1,867 @@
+{
+  "jet2.com/en/destinations/london-stansted-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Barcelona": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Italy/Naples": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Greece/Kefalonia": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Ibiza": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "jet2.com/en/Flights/Spain/Tenerife": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Morocco/Marrakech": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/latest-travel-information": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Cancellations": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/delays-and-disruptions": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Lanzarote": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Cyprus": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Turkey": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Greece": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Poland/Krakow": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/Newcastle-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Malta": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Fuerteventura": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Gran-Canaria": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "jet2.com/en/beach-flights": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Greece/Zante": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Greece/santorini": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Greece/Kos": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Italy/Rome": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Greece/Corfu": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Czech-Republic/Prague": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Turkey/Dalaman": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Turkey/Antalya": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Iceland/Reykjavik": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/travel-help-hub": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Cyprus/Larnaca": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Portugal/Madeira": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Cyprus/Paphos": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Austria/Vienna": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/birmingham-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Alicante": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Iceland": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/Belfast-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Malaga": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Greece/skiathos": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Portugal/Faro": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/assisted-travel": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Croatia": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "jet2.com/en/Flights/Spain/Benidorm": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/news/2024/05/Jet2_com_and_Jet2holidays_extend_early_and_late_summer_programmes_for_2025_": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Greece/Rhodes": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Majorca": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Latest-Travel-Information": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Fee-Free-Amendments": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/Leeds-Bradford-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Ski": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/news/2025/05/Jet2CityBreaks_expands_City_Breaks_portfolio_for_Summer_25_Winter_25_26_and_Summer_26": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/London-Stansted-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/News": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/beach-holiday-flights": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/travel-essentials/meals": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/about_us": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/baggage": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Service-Unavailable": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/leeds-bradford-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/contact-us/returned/Complaint": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/liverpool-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Login": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Delays-and-cancellations": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/travel-essentials/inflight-retail": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/East-Midlands-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/Manchester-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/Glasgow-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/Birmingham-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/last-minute-flights": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/cities": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/es-es/latest-travel-information": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/Bristol-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "jet2.com/en/destinations/Edinburgh-destinations-map": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/travel-essentials/parking": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/cs-CZ/": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/cheap-flights": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/es-ES/": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/christmas-markets": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Cheap-flights": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/FAQs/airport-information/manchester": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/flight-deals": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/pl-PL/": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/de-DE/": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Cities": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/MyJet2/offers-terms-and-conditions": [
+    "a11y-assistive"
+  ],
+  "jet2.com/fr-FR/": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/FAQs": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/MyJet2": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/great-deals": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/promotions": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/Booking": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/contact-us": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/manchester-airport-information": [
+    "a11y-assistive"
+  ],
+  "jet2.com/news/announcements": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/news/2024/07/Jet2holidays_adds_Free_Child_Place_holidays_onto_every_flight_for_Summer_25": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/myjet2": [
+    "a11y-assistive"
+  ],
+  "jet2.com/en/this-summer": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/manchester-destinations-map": [
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/faqs?topic=baggage-and-sports-equipment&category=hand-luggage-allowances": [
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "jet2.com/en/faqs": [
+    "a11y-assistive"
+  ],
+  "jet2.com/faqs?topic=flight-schedules-and-change-to-bookings&category=can-i-make-changes-to-my-flights-once-i-have-made-a-booking-and-how-much-does-it-cost": [
+    "a11y-assistive"
+  ],
+  "jet2.com/en/Terms": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/contact-us?topic=contact-us-online": [
+    "a11y-assistive"
+  ],
+  "jet2.com/en/flights/cancellations": [
+    "a11y-assistive"
+  ],
+  "jet2.com/en/news": [
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "jet2.com/news/announcements?page=2": [
+    "a11y-assistive"
+  ],
+  "jet2.com/en": [
+    "alt-text"
+  ],
+  "jet2.com/en/Flights/Italy": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/flights/france/": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/news/2025/04/Jet2holidays_launches_savings_on_all_Bulgaria_holidays_": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Girona": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/news/2023/01/Jet2holidays_launches_new_10_Jet2shop_voucher_for_growing_number_of_Indulgent_Escapes_customers": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/hu-hu/destinations/newcastle-destinations-map": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Croatia/Dubrovnik": [
+    "alt-text"
+  ],
+  "jet2.com/en/Flights/Spain/Menorca": [
+    "alt-text"
+  ],
+  "jet2.com/en/travel-essentials": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Italy/Catania": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/flights/greece": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/news/2025/06/Jet2Villas_puts_hundreds_of_new_villas_on_sale_": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Hungary/Budapest": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Italy/Venice": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/bournemouth-destinations-map": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/news/2025/05/Jet2_com_announces_new_multi_million_pound_programme_to_put_60_aspiring_pilots_through_fully_funded_training": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Bulgaria": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/news/2024/11/Jet2_com_and_Jet2holidays_welcome_first_Airbus_A321neo_aircraft_to_be_based_at_Edinburgh_Airport": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/flights/cyprus": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Croatia/Split": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Almeria": [
+    "alt-text"
+  ],
+  "jet2.com/it-it/flights/spain/tenerife": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/es-es/flights/italy/rome": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/France/Bergerac": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/UK/Leeds-Bradford": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Greece/Crete/Heraklion": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Airport-tips": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/es-es/": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/cs-cz/destinations/belfast-destinations-map": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/news/2019/11/Introducing_Vibe_by_Jet2holidays_": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/news/2015/05/Jet2holidays_Revamps_Trade_Site": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/flights/spain": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/it-it/destinations/liverpool-airport-destinations-map": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Portugal": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/canary-islands": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/en/destinations/glasgow-destinations-map": [
+    "alt-text"
+  ],
+  "jet2.com/en/Groups": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "jet2.com/hu-hu/destinations/leeds-bradford-destinations-map": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Deals/august-deals": [
+    "meta-tags"
+  ],
+  "jet2.com/contact-us": [
+    "meta-tags"
+  ],
+  "jet2.com/faqs": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Manage-My-Booking/change-date": [
+    "meta-tags"
+  ],
+  "jet2.com/en/request-special-assistance": [
+    "meta-tags"
+  ],
+  "jet2.com/en/delays-and-disruptions/Form-Submitted": [
+    "meta-tags"
+  ],
+  "jet2.com/en/mobile/apps": [
+    "meta-tags"
+  ],
+  "jet2.com/news/2024/07/VIBE_by_Jet2holidays_and_Love_Island_partnership_takes_flight_with_branded_VIBE_pool_party": [
+    "meta-tags"
+  ],
+  "jet2.com/news/2025/08/Jet2_com_and_Jet2holidays_announce_new_Greek_destination_from_Glasgow_Airport_for_Summer_26_": [
+    "meta-tags"
+  ],
+  "jet2.com/cs-cz/flights/spain/murcia-san-javier": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Italy/Verona": [
+    "meta-tags"
+  ],
+  "jet2.com/en/ski": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/balearics": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Morocco": [
+    "meta-tags"
+  ],
+  "jet2.com/news/2025/03/Save_on_summer_with_Jet2_com_and_Jet2holidays_brand_new_Summer_25_sale_": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/France/Nice": [
+    "meta-tags"
+  ],
+  "jet2.com/es-es/destinations/glasgow-destinations-map": [
+    "meta-tags"
+  ],
+  "jet2.com/en/flights/malta": [
+    "meta-tags"
+  ],
+  "jet2.com/news/2025/04/Jet2_com_s_Summer_25_menu_takes_flight_featuring_brand_new_drinks_and_food": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Bulgaria/Bourgas": [
+    "meta-tags"
+  ],
+  "jet2.com/it-it/": [
+    "meta-tags"
+  ],
+  "jet2.com/en/FAQs/airport-information/portugal/Porto": [
+    "meta-tags"
+  ],
+  "jet2.com/en/FAQs/airport-information/greek-islands/skiathos": [
+    "meta-tags"
+  ],
+  "jet2.com/en/FAQs/airport-information/london-stansted": [
+    "meta-tags"
+  ],
+  "jet2.com/en/FAQs/airport-information/greek-islands/corfu": [
+    "meta-tags"
+  ],
+  "jet2.com/cs-cz/news": [
+    "meta-tags"
+  ],
+  "jet2.com/news/new_routes": [
+    "meta-tags"
+  ],
+  "jet2.com/news/community": [
+    "meta-tags"
+  ],
+  "jet2.com/news/2024": [
+    "meta-tags"
+  ],
+  "jet2.com/news/2025/09/Jet2_com_launches_first_ever_ski_programme_from_London_Luton_Airport_": [
+    "meta-tags"
+  ],
+  "jet2.com/en/lff": [
+    "meta-tags"
+  ],
+  "jet2.com/en/deals/july-deals": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Deals/october-deals": [
+    "meta-tags"
+  ],
+  "jet2.com/en/this-winter": [
+    "meta-tags"
+  ],
+  "jet2.com/en/faster-refunds": [
+    "meta-tags"
+  ],
+  "jet2.com/en/contact-us/returned/Question": [
+    "meta-tags"
+  ],
+  "jet2.com/news/2025/07/Jet2holidays_and_Jet2Villas_announce_big_savings_for_families_as_the_school_holidays_start_": [
+    "meta-tags"
+  ],
+  "jet2.com/en/app": [
+    "meta-tags"
+  ],
+  "jet2.com/news/2022/04/Jet2_com_and_Jet2holidays_ramps_up_Summer_22_capacity_once_again_to_sunshine_favourites_": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Channel-Islands/Jersey": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Greece/Crete": [
+    "meta-tags"
+  ],
+  "jet2.com/news/2025/08/Jet2_com_announces_that_under_2s_now_go_free_": [
+    "meta-tags"
+  ],
+  "jet2.com/it-it/login": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Italy/Sardinia": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Spain/Reus": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/France/Paris": [
+    "meta-tags"
+  ],
+  "jet2.com/en/Flights/Turkey/Bodrum": [
+    "meta-tags"
+  ],
+  "jet2.com/en/FAQs/airport-information/greek-islands/rhodes": [
+    "meta-tags"
+  ],
+  "jet2.com/en/FAQs/airport-information/Birmingham": [
+    "meta-tags"
+  ]
+}

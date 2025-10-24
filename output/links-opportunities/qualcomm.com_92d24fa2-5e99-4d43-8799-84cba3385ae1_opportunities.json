@@ -1,0 +1,1687 @@
+{
+  "qualcomm.com/products/mobile/snapdragon/smartphones": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/consumer/performance-and-efficiency": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/laptops": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/uk/en/snapdragon/laptops-and-tablets/consumer": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/news": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/support": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-7s-gen-3-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/developer/windows-on-snapdragon": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/products/features/quick-charge": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/windowsapps": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/comparison": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "cwv"
+  ],
+  "qualcomm.com/5g/what-is-5g": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/gaming/snapdragonxp": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/snapdragon/gaming": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/5g": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/company": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-7-gen-3-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/news/releases/2025/06/qualcomm-acquires-autotalks-to-boost-v2x-deployments--enhance-ro": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/developer/software/list": [
+    "a11y-color-contrast",
+    "broken-internal-links"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/commercial": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-7s-gen-2-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/company/corporate-responsibility": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x-plus": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/technology/wi-fi/qca9377": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/technology/wi-fi/fastconnect/fastconnect-7800": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/consumer": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/news/releases/2025/05/qualcomm-and-xiaomi-expand-collaboration-with-multi-year-agreeme": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/ai-residency-program": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/consumer/ai": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/search": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x-elite": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/company/locations/india": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/laptop-device-finder/hp-omnibook-x": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/audio/qcc30xx-series/qcc3056": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/research/6g": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/laptop-device-finder/microsoft-surface-15": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/support/qan/member-directory/member.quanta-computer-inc": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-4-series-mobile-platforms/snapdragon-4-gen-2-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/smartphones": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/site/privacy/cookies": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/best-laptop": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/support/contact": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/developer/blog": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/developer/software/qualcomm-ai-engine-direct-sdk": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/support/software-tools/...": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8-gen-2-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/support/qan/member-directory": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "broken-internal-links",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-6-gen-1-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/news/onq": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/audio/mobile-audio": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/snapdragon/overview": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8-plus-gen-1-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/insiders": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8-gen-3-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/best-processor-for-laptops": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/products/features/snapdragon-sound": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-778g-5g-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-680-4g-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-6-gen-4-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8s-gen-4-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "cwv"
+  ],
+  "qualcomm.com/products/technology/5g": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/news/releases": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "cwv"
+  ],
+  "qualcomm.com/company/facilities/offices": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/developer": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/company/careers/internships-and-early-in-career-opportunities/india": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/jp/ja/snapdragon/laptops-and-tablets/laptop-device-finder/microsoft-surface-pro": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/best-windows-laptop": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/company/careers": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/laptop-device-finder": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "broken-internal-links"
+  ],
+  "qualcomm.com/company/careers/benefits": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/support/contact/forms/company-verification": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8s-gen-3-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/agreements": [
+    "a11y-color-contrast",
+    "broken-internal-links"
+  ],
+  "qualcomm.com/products/internet-of-things/qcs6490": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/site/privacy": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-7-gen-4-mobile-platform": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-6s-4g-gen-1-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8-elite-mobile-platform": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/laptop-device-finder/lenovo-yoga-slim-7x": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/developer/software/neural-processing-sdk-for-ai": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/company/careers/internships-and-early-in-career-opportunities": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/developer/software/hexagon-npu-sdk": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/products": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/technology/modems/rffe-filter-products": [
+    "a11y-color-contrast",
+    "broken-internal-links"
+  ],
+  "qualcomm.com/developer/events/edge-ai-developer-hackathon/bengaluru-india": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/company/events": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/jp/ja/snapdragon/laptops": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/au/en/snapdragon/laptops": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/products/internet-of-things": [
+    "a11y-color-contrast",
+    "cwv"
+  ],
+  "qualcomm.com/de/de/snapdragon/laptops-and-tablets/consumer": [
+    "a11y-color-contrast",
+    "broken-internal-links",
+    "cwv"
+  ],
+  "qualcomm.com/ca/en/snapdragon/laptops": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "qualcomm.com/in/en/snapdragon/laptops": [
+    "a11y-color-contrast",
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/pcs": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/automotive/overview": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/smart-homes": [
+    "a11y-color-contrast"
+  ],
+  "qualcomm.com/research/stories/world-changing-technology": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/immersive-home-platforms/immersive-home-214-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/immersive-home-platforms/immersive-home-216-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/immersive-home-platforms/immersive-home-316-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/immersive-home-platforms/immersive-home-318-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/immersive-home-platforms/immersive-home-326-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/immersive-home-platforms/immersive-home-3210-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-a7-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-a7-elite-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-810-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-800-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-610-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-600-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-400-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-1610-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-1210-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-1200-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/automotive/c-v2x/overview": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-620-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-820-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-1220-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-pro-series/qualcomm-networking-pro-1620-platform": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/cameras/partners": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/cameras/products": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/cameras/enterprise-security-cameras/design-resources": [
+    "sitemap"
+  ],
+  "qualcomm.com/developer/blog/2021/12/snapdragon-developer-kit-now-available-testing-windows-apps-arm": [
+    "sitemap"
+  ],
+  "qualcomm.com/developer/cloud-ai-sdk": [
+    "sitemap"
+  ],
+  "qualcomm.com/uk/snapdragon/overview": [
+    "sitemap"
+  ],
+  "qualcomm.com/de/snapdragon/overview": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/cameras/enterprise-security-cameras": [
+    "sitemap"
+  ],
+  "qualcomm.com/de/snapdragon/sound": [
+    "sitemap"
+  ],
+  "qualcomm.com/site/privacy/data-processing-agreement/toms": [
+    "sitemap"
+  ],
+  "qualcomm.com/site/privacy/data-processing-agreement": [
+    "sitemap"
+  ],
+  "qualcomm.com/snapdragon-studios": [
+    "sitemap"
+  ],
+  "qualcomm.com/jp/snapdragoninsiders": [
+    "sitemap"
+  ],
+  "qualcomm.com/tw/snapdragoninsiders": [
+    "sitemap"
+  ],
+  "qualcomm.com/id/snapdragoninsiders": [
+    "sitemap"
+  ],
+  "qualcomm.com/br/snapdragoninsiders": [
+    "sitemap"
+  ],
+  "qualcomm.com/de/snapdragoninsiders": [
+    "sitemap"
+  ],
+  "qualcomm.com/kr/snapdragoninsiders": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/cameras/dash-cameras/design-resources": [
+    "sitemap"
+  ],
+  "qualcomm.com/uk/join-us": [
+    "sitemap"
+  ],
+  "qualcomm.com/uk/snapdragoninsiders": [
+    "sitemap"
+  ],
+  "qualcomm.com/snapdragoninsiders": [
+    "sitemap"
+  ],
+  "qualcomm.com/in/snapdragoninsiders": [
+    "sitemap"
+  ],
+  "qualcomm.com/latam/snapdragoninsiders": [
+    "sitemap"
+  ],
+  "qualcomm.com/snapdragon/odesza": [
+    "sitemap"
+  ],
+  "qualcomm.com/company/events/embedded-world-2024": [
+    "sitemap"
+  ],
+  "qualcomm.com/licensing/licensing-approach": [
+    "sitemap"
+  ],
+  "qualcomm.com/news/onq/2012/03/will-web-make-comeback5": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/cameras/dash-cameras": [
+    "sitemap"
+  ],
+  "qualcomm.com/news/onq/2012/025-friending-mobile-web": [
+    "sitemap"
+  ],
+  "qualcomm.com/news/onq/2010/105-back-future-fragmentation": [
+    "sitemap"
+  ],
+  "qualcomm.com/support/contact/forms/snapdragon-compute": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/technology/artificial-intelligence/ai-stack": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/cameras": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/industrial/industrial-automation/partners": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/industrial/industrial-automation/hardware": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/industrial/industrial-automation/products": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/industrial/industrial-automation": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/industrial/building-enterprise/video-collaboration": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/cameras/hardware": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/automotive": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/personalization-and-federated-learning": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/generative-ai": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/optimization-and-reinforcement-learning": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/it-engineers/03-application-compatibility-testing": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/it-engineers/06-benchmarking": [
+    "sitemap"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/consumer/chromebook": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/it-engineers/05-printing-guides": [
+    "sitemap"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/consumer/windows": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/power-efficiency": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/technology/processors/cq8725s/software": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/data-compression": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/ai-compilers-and-algorithms": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/neural-reasoning-and-embodied-ai": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/it-engineers/01-unboxing": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/it-engineers/02-deployment": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/computer-vision": [
+    "sitemap"
+  ],
+  "qualcomm.com/support/contact/forms/edge-ai-developer-hackathon-bengaluru-proposal-submission": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets": [
+    "sitemap"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/it-engineers/04-managing-updates": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/wireless-and-rf-sensing": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/speech-audio-and-language-processing": [
+    "sitemap"
+  ],
+  "qualcomm.com/site/privacy/data-processing-agreement/service-details/awareplatform": [
+    "sitemap"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers/machine-learning-fundamentals": [
+    "sitemap"
+  ],
+  "qualcomm.com/news/releases/2021/03/qualcomm-completes-acquisition-nuvia": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/onq/2024/02/what-is-an-npu-and-why-is-it-key-to-unlocking-on-device-generative-ai": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/onq/2023/04/top-10-smartphone-uses-new-consumer-report-reveals-why-were-at-the-point-of-no-return": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/asus-rog-5": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wireless-fiber-fwa": [
+    "meta-tags"
+  ],
+  "qualcomm.com/company/about/leadership/cristiano-amon": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/asus-zenfone-10": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/technology/processors/oryon": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/artificial-intelligence/what-is-ai-faq/how-do-phones-use-ai": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/networking-device-finder/verizon-internet-gateway-wnc-cr200a": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/products/technology/modems/snapdragon-x62-5g-modem-rf-system": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-650-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-7-plus-gen-2-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/releases/1997/03/qualcomm-unveils-q-phone-extraordinary-new-palm-sized-cdma-digital-pcs": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/oneplus-10-pro": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/asus-rog-7": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/application/wireless-networks": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/snapdragon-stadium": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-865-plus-5g-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/onq/2023/11/the-positive-social-impact-of-ai": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/laptop-device-finder/asus-vivobook-s15": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s24-plus": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/features/active-noise-cancellation": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/wi-fi/qca4002": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/sony--xperia-1-v": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-7-gen-1-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/wearables/wearables-device-finder/google-fitbit-ace-lte": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-4-series-mobile-platforms/snapdragon-4-gen-1-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/samsung-galaxy-s22-plus": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/oneplus-12": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s23-ultra": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/iqoo-12-pro": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/oppo-find-x6-pro": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/products/technology/processors/mobile-processors": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/releases/2018/07/qualcomm-announces-termination-nxp-acquisition-and-board-authorization-30": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/internet-of-things/robotics-processors/iq9-series": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/processors/cloud-artificial-intelligence/cloud-ai-100": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/research/5g/5g-nr": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/news/introducing-the-new-sound-of-snapdragon": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/redmagic-9-pro": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/news/releases/2021/01/qualcomm-acquire-nuvia": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/honor-100-pro": [
+    "meta-tags"
+  ],
+  "qualcomm.com/company/locations/indonesia/snapdragon": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/wearables/wearables-device-finder/gizmo-watch-3": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s23-plus": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/company/locations/germany": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/onq/2025/02/qualcomm-extends-support-for-updates-on-android-devices-with-snapdragon-8-elite": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/oneplus-12r": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/asus-rog-9-pro": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-685-4g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-662-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/xiaomi-13-pro": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/support/contact/forms/careers": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/iqoo-12": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/redmagic-8-pro": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-695-5g-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s24": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-870-5g-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/developer/software/cloud-ai-sdk": [
+    "meta-tags"
+  ],
+  "qualcomm.com/company/careers/faqs": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/oneplus-7-pro-5g": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-a52s-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/xiaomi-poco-f4": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/oneplus-11-5g": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/releases/2025/03/introducing-qualcomm-x85--the-world-s-leading-modem-rf-for-unpre": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/artificial-intelligence/what-is-ai-faq/5g---ai": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/releases/2024/10/qualcomm-unveils-snapdragon-8-elite-with-the-world-s-fastest-mob": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/honor-50-pro": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/samsung-galaxy-a90-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/asus-rog-phone-6": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-855-plus-and-860-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/samsung-galaxy-s21-fan-edition-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-z-flip3-5g": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/releases/2023/10/qualcomm-launches-premium-snapdragon-8-gen-3-to-bring-generative": [
+    "meta-tags"
+  ],
+  "qualcomm.com/research/5g/5g-nr/mmwave": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/samsung-galaxy-s10-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/technology/processors/application-processors/sdm845": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/audio/csr8645": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/samsung-galaxy-s22-ultra": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/features/XPAN": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-7-plus-gen-3-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/iqoo-11-pro": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/news/releases/2021/09/qualcomm-adds-bluetooth-lossless-audio-technology-snapdragon-sound": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-z-flip-5g": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s20-ultra-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-note20-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-z-fold2-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s21-ultra-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s21-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/internet-of-things/networking/wi-fi-networks/ipq4019": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/processors/application-processors/sdm660": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/oneplus-8-pro": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/artificial-intelligence": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-652-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-z-flip4": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/company/locations/south-korea": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/xiaomi-mi-mix-fold": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/oneplus-8t": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/redmi-k40": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-720g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/redmi-note-12-turbo": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/news/releases/2023/09/qualcomm-announces-agreement-with-apple-for-chip-supply": [
+    "meta-tags"
+  ],
+  "qualcomm.com/innovate-in-taiwan-challenge": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/oneplus-9-pro": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/bluetooth/csr8510": [
+    "meta-tags"
+  ],
+  "qualcomm.com/research/extended-reality": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-765g-5g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/galaxy-z-fold3-5g": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-625-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/nubia-redmagic-5g": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-730-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/sony-xperia-pro-1": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-4-series-mobile-platforms": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/our-company/company/careers": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/sharp-aquos-r6": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/poco-f3": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/onq/2025/09/snapdragon-8-elite-gen-5-name-power-why": [
+    "meta-tags",
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/device-finder/google-pixel-5": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/releases/2025/07/qualcomm-announces-third-quarter-fiscal-2025-results": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/asus-rog-phone-3": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-636-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-820-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-660-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-665-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s20-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/5g-pcs-for-consumers": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/mobile-ai": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-675-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-782g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/xiaomi-mi-11x": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/logos": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/onq/2025/06/a-worlds-first-on-glass-gen-ai-demo-qualcomms-vision-for-smart-glasses": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/features/fingerprint-sensors": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/black-shark-3-pro": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/oneplus-9": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/samsung-galaxy-s9": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/audio/csr8675": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/news/the-5-best-features-of-the-samsung-galaxy-s23-ultra": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/onq/2022/09/ar--vr--mr--and-xr---what-they-mean-and-how-they-ll-transform-li": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/technology/processors/adreno": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-845-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-835-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/asus-rog-phone-6-pro": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers": [
+    "meta-tags"
+  ],
+  "qualcomm.com/research/artificial-intelligence/papers-with-code": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-elite-gaming": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/oppo-find-x3-pro": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-630-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-888-plus-5g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/best-laptop-brands": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/releases/2025/02/qualcomm-announces-first-quarter-fiscal-2025-results": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/xr-vr-ar/snapdragon-xr2-5g-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-6s-gen-3-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-4-series-mobile-platforms/snapdragon-480-5g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-865-5g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-4-series-mobile-platforms/snapdragon-439-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/features/aptx": [
+    "meta-tags"
+  ],
+  "qualcomm.com/drivers": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/technology/wi-fi/wi-fi-7": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/processors": [
+    "meta-tags",
+    "broken-internal-links",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/samsung-galaxy-s22": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/manchester-united": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-750g-5g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/onq/2024/09/how-ai-and-smart-glasses-give-you-a-new-perspective-on-real-life": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/xiaomi-redmi-k20-pro": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8-gen-1-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/asus-rog-7-ultimate": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-855-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-4-series-mobile-platforms/snapdragon-425-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-888-5g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/xiaomi-redmi-k20": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/sony-xperia-5-iii": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-4-series-mobile-platforms/snapdragon-450-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-processors-810": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/catalog/quick-charge-30": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/releases/2025/04/qualcomm-announces-second-quarter-fiscal-2025-results": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-732g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/poco-x3-pro": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/samsung-galaxy-s8": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/oneplus-7t": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/samsung-galaxy-note-8": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/nokia-5_3": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/oneplus-6": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s24-ultra": [
+    "meta-tags",
+    "structured-data"
+  ],
+  "qualcomm.com/products/technology/processors/smb1350-1": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/internet-of-things/qcm6490": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-778g-plus-5g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/redmagic-9-pro-plus": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/networking": [
+    "meta-tags",
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s25-ultra": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/technology/wi-fi/qca9531": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/onq/2016/11/qualcomm-quick-charge-4-five-minutes-charging-five-hours-battery-life": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/laptop-device-finder/hp-omnibook-5": [
+    "meta-tags",
+    "alt-text",
+    "structured-data",
+    "cwv"
+  ],
+  "qualcomm.com/company/careers/internships-and-early-in-career-opportunities/americas": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/technology/processors/application-processors/qcs610": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/asus-zenfone-9": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/xr-vr-ar/snapdragon-xr2-gen-2-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/onq/2015/06/qualcomm-quick-charge-20-technology-explained": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-s23": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/news/onq/2024/10/what-makes-snapdragon-elite-elite-your-burning-questions-answered": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/samsung-galaxy-note20-ultra-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/xr": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/audio/qcc51xx-series/qcc5125": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/releases/2025/03/qualcomm-to-bolster-ai-and-iot-capabilities-with-edge-impulse-ac": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/device-finder/google-pixel-4a-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/news/releases/2022/11/snapdragon-8-gen-2-defines-a-new-standard-for-premium-smartphone": [
+    "meta-tags"
+  ],
+  "qualcomm.com/news/onq/2021/08/vivo-iqoo-8-pro-first-smartphone-china-qualcomm-3d-sonic-max": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-710-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/modems/snapdragon-x65-5g-modem-rf-system": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/what-is-snapdragon": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/onq/2024/04/a-guide-to-ai-tops-and-npu-performance-metrics": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-6-gen-3-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/artificial-intelligence/what-is-ai-faq": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/developer/hardware/robotics-rb5-development-kit": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-4-series-mobile-platforms/snapdragon-460-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/artificial-intelligence/edge-ai-box": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/internet-of-things/robotics-processors/qrb5165": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-712-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/laptop-device-finder/honor-magicbook-art-14": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/internet-of-things/consumer/audio/qcc51xx-series/qcc5171": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/technology/modems": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-processors-808": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-670-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/xiaomi-civi-4-pro": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/s/oppo-reno-5g": [
+    "meta-tags",
+    "alt-text",
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-821-mobile-platform": [
+    "meta-tags"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/best-windows-11-laptops": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-730g-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/products/technology/modems/rffe-filter-products/about": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-4-series-mobile-platforms/snapdragon-processors-410": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/onq/2025/07/wi-fi-8-advancing-wireless-through-ultra-high-reliability": [
+    "meta-tags",
+    "cwv"
+  ],
+  "qualcomm.com/company/locations/united-states": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/releases/2025/06/qualcomm-to-acquire-alphawave-semi": [
+    "meta-tags"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-4-series-mobile-platforms/snapdragon-430-mobile-platform": [
+    "meta-tags",
+    "alt-text"
+  ],
+  "qualcomm.com/news/releases/2024/05/qualcomm-accelerates-development-for-copilot--pcs-with-snapdrago": [
+    "broken-internal-links"
+  ],
+  "qualcomm.com/developer/hardware/list": [
+    "broken-internal-links"
+  ],
+  "qualcomm.com/#": [
+    "broken-internal-links"
+  ],
+  "qualcomm.com/research/university-relations/innovation-fellowship/2025-india": [
+    "broken-internal-links"
+  ],
+  "qualcomm.com/developer/blog/2025/05/windows-copilot-runtime-on-qualcomm-npu": [
+    "broken-internal-links"
+  ],
+  "qualcomm.com/products/internet-of-things/partners": [
+    "broken-internal-links"
+  ],
+  "qualcomm.com/news/releases/2025/03/qualcomm-unveils-leading-innovations-in-connectivity-and-ai-at-m": [
+    "broken-internal-links"
+  ],
+  "qualcomm.com/news/releases/2024/05/qualcomm-accelerates-development-for-copilot--pcs-with-snapdrago#": [
+    "broken-internal-links"
+  ],
+  "qualcomm.com/products/product-longevity-program": [
+    "broken-internal-links"
+  ],
+  "qualcomm.com/products/automotive/two-wheelers": [
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/motorola-edge-30-pro": [
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/lg-v60-thinq-5g-dual-screen": [
+    "alt-text"
+  ],
+  "qualcomm.com/company/events/snapdragon-summit": [
+    "alt-text",
+    "cwv"
+  ],
+  "qualcomm.com/research/5g/5g-timeline": [
+    "alt-text"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-processors-801": [
+    "alt-text"
+  ],
+  "qualcomm.com/products/internet-of-things/industrial-processors/iq9-series": [
+    "alt-text"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/oppo-find-x7-ultra": [
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/smartphones/xiaomi-13": [
+    "structured-data"
+  ],
+  "qualcomm.com/snapdragon/device-finder/xiaomi-mi-11-ultra": [
+    "structured-data"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/wearables/wearables-device-finder/gen-6-smartwatch": [
+    "structured-data"
+  ],
+  "qualcomm.com/ai-program-for-innovators/latam": [
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/news/unleashing-creativity-with-snapdragon-the-art-of-doddz": [
+    "cwv"
+  ],
+  "qualcomm.com/news/onq/2025/08/openai-model-on-device-snapdragon": [
+    "cwv"
+  ],
+  "qualcomm.com/news/releases/2025/09/new-snapdragon-x2-elite-extreme-and-snapdragon-x2-elite-are-the-": [
+    "cwv"
+  ],
+  "qualcomm.com/uk/en-gb/snapdragon/laptops-and-tablets/commercial": [
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/news/snapdragon-x-enters-the-kitchen-in-fridge-swap": [
+    "cwv"
+  ],
+  "qualcomm.com/products/cellular-infrastructures": [
+    "cwv"
+  ],
+  "qualcomm.com/developer/community": [
+    "cwv",
+    "high-organic-low-ctr"
+  ],
+  "qualcomm.com/jp/ja/snapdragon/laptops-and-tablets/best-windows-laptop": [
+    "cwv"
+  ],
+  "qualcomm.com/de/de/snapdragon/laptops-and-tablets/commercial": [
+    "cwv"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite": [
+    "cwv"
+  ],
+  "qualcomm.com/news/releases/2025/09/qualcomm-and-bmw-group-unveil-groundbreaking-automated-driving-s": [
+    "cwv"
+  ],
+  "qualcomm.com/news/releases/2025/08/qualcomm-launches-world-s-first-enterprise-mobile-processor-with": [
+    "cwv"
+  ],
+  "qualcomm.com/fr/fr/snapdragon/laptops": [
+    "cwv"
+  ],
+  "qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8-elite-gen-5": [
+    "cwv"
+  ],
+  "qualcomm.com/uk/en-gb/snapdragon/laptops-and-tablets/consumer": [
+    "cwv"
+  ],
+  "qualcomm.com/back-to-school": [
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/news/snapdragon-unplugged-lelas-journey": [
+    "cwv"
+  ],
+  "qualcomm.com/news/releases/2025/09/snapdragon-8-elite-gen-5--the-world-s-fastest-mobile-system-on-a": [
+    "cwv"
+  ],
+  "qualcomm.com/snapdragon/laptops-and-tablets/consumer/battery-life": [
+    "cwv"
+  ],
+  "qualcomm.com": [
+    "high-organic-low-ctr"
+  ]
+}

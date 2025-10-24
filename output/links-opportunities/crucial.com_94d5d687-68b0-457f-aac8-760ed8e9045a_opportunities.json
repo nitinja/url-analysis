@@ -1,0 +1,3235 @@
+{
+  "crucial.com/upgrades": [
+    "broken-internal-links",
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags",
+    "cwv"
+  ],
+  "crucial.com/articles/about-memory/what-is-dual-channel-memory": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/articles/for-gamers/how-much-ram-for-gaming": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/articles/about-ssd/how-to-upgrade-to-an-ssd": [
+    "a11y-color-contrast",
+    "alt-text"
+  ],
+  "crucial.com/articles/pc-builders/what-is-computer-hardware": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/articles/pc-users/how-to-upgrade-laptop-memory": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/ssd/p3/ct500p3ssd8": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/for-gamers/how-to-upgrade-a-gaming-pc": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/catalog/ssd/external": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/memory/ddr4/ct16g4sfra32a": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "cwv"
+  ],
+  "crucial.com/articles/for-gamers/best-fictional-places-to-live": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/about-memory/different-types-of-memory-explained": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/ssd/mx500/ct1000mx500ssd1": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/x9-pro/ct1000x9prossd9": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/about-memory/difference-between-speed-and-latency": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/support/storage-executive": [
+    "a11y-color-contrast",
+    "alt-text"
+  ],
+  "crucial.com/articles/about-memory/support-what-does-computer-memory-do": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/external-ssd/how-to-choose-the-best-external-ssd-for-gaming": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/articles/about-memory/everything-about-ddr5-ram": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t705/ct2000t705ssd5a": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/about-memory/how-much-ram-does-my-computer-need": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/about-memory/is-my-ram-compatible-with-my-motherboard": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/catalog/ssd": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/store/advisor-options": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/ssd/p3/ct1000p3ssd8": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/mac-users/how-to-speed-up-your-mac-system": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/articles/about-ssd/how-to-format-a-solid-state-drive": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/articles/about-ssd/what-is-an-ssd": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/about-ssd/do-you-need-an-nvme-ssd-heatsink": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/about-memory/what-is-overclocking": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/ssd/x9/ct1000x9ssd9": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/catalog/ssd/1-tb": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/about-memory/what-is-xmp": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/articles/about-memory/how-to-check-ram-windows-10": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/catalog/ssd/nvme/1-tb": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/support/articles-faq-ssd/usb-storage-drive-not-detected-windows": [
+    "a11y-color-contrast",
+    "meta-tags"
+  ],
+  "crucial.com/articles/pc-builders/why-your-computer-is-loud-and-how-to-reduce-noise": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/ssd/bx500/ct1000bx500ssd1": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/products/ssd/crucial-p3-ssd": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/articles/about-ssd/how-to-install-ssd-in-laptop": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/pc-users/how-to-factory-reset-windows-10": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/catalog/memory/ddr4": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/articles/pc-users/how-to-password-protect-a-folder": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/support/articles-faq-ssd/formatting-usb-storage-drive-windows": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/support/articles-faq-ssd/initialize-ssd-windows": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/support/articles-faq-ssd/formatting-usb-storage-drive-macos": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/catalog/ssd/4-tb": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/catalog/ssd/pcie-gen-5": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/support/system-maintenance-free-hard-drive-space": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/articles/about-ssd/should-you-defrag-an-ssd": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/support/ssd-support": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/products/ssd/crucial-p3-plus-ssd": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/about-memory/how-to-upgrade-desktop-memory": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/ssd/mx500/ct2000mx500ssd1": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t700/ct1000t700ssd5": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/articles/mac-users/how-to-clean-and-optimize-mac": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/articles/pc-users/how-to-defrag-hard-drive": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/articles/about-memory/difference-among-ddr2-ddr3-ddr4-and-ddr5-memory": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/products/ssd/crucial-p5-plus-ssd": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/support/articles-faq-ssd/watchdogviolationerror": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/catalog/memory/ddr5": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/articles/pc-users/computer-memory-units-explained": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/pc-builders/how-to-build-a-computer": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/catalog/ssd/nvme/2-tb": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/catalog/ssd/sata": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/pc-builders/what-is-a-hard-drive": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/about-memory/what-is-the-difference-between-ram-and-rom": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/ssd/t705/ct1000t705ssd3": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/catalog/ssd/nvme": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/products/ssd/crucial-mx500-ssd": [
+    "a11y-color-contrast",
+    "alt-text"
+  ],
+  "crucial.com/ssd/x10-pro/ct1000x10prossd9": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/mac-users/mac-vs-pc-the-pros-and-cons": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/support/memory-speeds-compatability": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/articles/mac-users/how-to-clear-space-on-a-mac": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/products/memory/laptop-dram": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/articles/about-ssd/m2-with-pcie-or-sata": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/support/system-maintenance-cooling": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/crucial-p5-ssd": [
+    "a11y-color-contrast",
+    "alt-text"
+  ],
+  "crucial.com/articles/pc-users/how-to-fix-a-slow-computer": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/articles/about-ssd/how-to-install-solid-state-drive": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/products/ssd/crucial-p3-plus-ssd-nvme": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/mx500/ct500mx500ssd1": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/pc-builders/disassemble-and-rebuild-a-desktop-computer": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/store/advisor": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "sitemap"
+  ],
+  "crucial.com/articles/pc-users/how-to-check-computer-specs": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/pc-users/how-to-make-a-laptop-faster": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/products/memory": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t500/ct1000t500ssd5": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/support/articles-faq-memory/what-are-memory-timings": [
+    "a11y-color-contrast"
+  ],
+  "crucial.com/articles/about-ssd/ssd-vs-hdd": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/articles/about-ssd/what-is-a-computer-data-storage-device": [
+    "a11y-color-contrast",
+    "a11y-assistive"
+  ],
+  "crucial.com/ssd/p3-plus/ct2000p3pssd8": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "crucial.com/products/ssd": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "sitemap"
+  ],
+  "crucial.com/store/systemscanner": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "high-page-views-low-form-views",
+    "cwv"
+  ],
+  "crucial.com/products/ssd/nvme-ssds": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text"
+  ],
+  "crucial.com/memory/ddr4/ct32g4sfd832a": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/p3-plus/ct1000p3pssd8": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/catalog/memory": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "cwv"
+  ],
+  "crucial.com/support/articles-faq-ssd/acronis-for-crucial-faq": [
+    "a11y-color-contrast",
+    "alt-text"
+  ],
+  "crucial.com/account/account-dashboard": [
+    "high-page-views-low-form-views"
+  ],
+  "crucial.com/content/crucial/en-us/home.html": [
+    "high-page-views-low-form-views"
+  ],
+  "crucial.com/ssd/x9/ct2000x9ssd9": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct32g48c40u5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/compatible-upgrade-for/hp/envy-13-(models-13-bfxxx)": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/cp2k32g56c46u5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/p3/ct2000p3ssd8": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr4/ct8g4sfs824a": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/x8/ct1000x8ssd9": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/products/ssd/portable-ssds": [
+    "alt-text"
+  ],
+  "crucial.com/memory/ddr4/ct2k16g4sfra32a": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr4/ct2k16g4dfra32a": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct2k16g56c46s5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/pc-users/how-to-delete-temporary-internet-files": [
+    "alt-text"
+  ],
+  "crucial.com/memory/ddr5/ct2k32g48c40s5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/p5-plus/ct1000p5pssd8": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/for-gamers/most-beautiful-games": [
+    "alt-text"
+  ],
+  "crucial.com/memory/ddr4/ct2k32g4sfd832a": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/x6/ct1000x6ssd9": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/x10/ct8000x10ssd9": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/p5-plus/ct2000p5pssd8": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/p3-plus/ct500p3pssd8": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct16g56c46s5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/cp2k16g60c36u5b": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct32g48c40s5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/bx500/ct240bx500ssd1": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/compatible-upgrade-for/acer/nitro-5-an515-51": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/mx500/ct250mx500ssd1": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/for-gamers/hdd-or-ssd-for-gaming": [
+    "alt-text"
+  ],
+  "crucial.com/memory/ddr5/ct32g56c46s5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t500/ct2000t500ssd8": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/for-gamers/pc-vs-console-what-is-better-for-gaming": [
+    "alt-text"
+  ],
+  "crucial.com/articles/pc-users/computer-disposal-how-to-recycle-old-computers": [
+    "alt-text"
+  ],
+  "crucial.com/memory/server-ddr4/mta36asf4g72pz-3g2r": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct64g56c46s5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr4/ct8g4sfra32a": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/compatible-upgrade-for/hp/hp-14-dq0xxx-(intel-core-series)": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/compatible-upgrade-for/acer/aspire-7-a717-72g": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/for-gamers/how-ballistix-memory-can-enhance-computer-gaming": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/compatible-upgrade-for/asus/rog-strix-scar-ii-gl704gm-dh74": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/p5-plus/ct2000p5pssd5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct2k32g56c46s5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr4/ct16g4dfra32a": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/p3/ct4000p3ssd8": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/compatible-upgrade-for/lenovo/ideapad-gaming-3-15ach6": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/products/memory/desktop-dram": [
+    "alt-text"
+  ],
+  "crucial.com/memory/ddr4/cp2k32g4dfra32a": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct32g56c46u5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/compatible-upgrade-for/acer/aspire-7-a717-72g-700j": [
+    "alt-text"
+  ],
+  "crucial.com/compatible-upgrade-for/acer/swift-3-sf315-41g": [
+    "alt-text"
+  ],
+  "crucial.com/compatible-upgrade-for/hp-compaq/hp-15-bs144wm": [
+    "alt-text"
+  ],
+  "crucial.com/products/ssd/crucial-x9-pro-ssd": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t700/ct2000t700ssd3": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/compatible-upgrade-for/asus/tuf-gaming-fx705": [
+    "alt-text"
+  ],
+  "crucial.com/support/articles-faq-ssd/acronis-image-backup-recovery-guide": [
+    "alt-text"
+  ],
+  "crucial.com/ssd/x9-pro/ct2000x9prossd9": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/support/ssd/ssd-install/ssd-install-steps-m2/part-3-copy/p2-steps-carousel": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/pc-users/how-to-remove-startup-programs": [
+    "alt-text"
+  ],
+  "crucial.com/ssd/x8/ct2000x8ssd9": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/support/ssd-support/p3-support": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct2k48g56c46s5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/about-ssd/what-is-trim": [
+    "alt-text"
+  ],
+  "crucial.com/articles/about-memory/what-is-the-difference-between-memory-and-storage": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/products/memory/mac/memory-for-mac": [
+    "alt-text"
+  ],
+  "crucial.com/ssd/bx500/ct2000bx500ssd1": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr4/ct8g4dfra32a": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t705/ct1000t705ssd5": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/support/ssd-support/p3-plus-support": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/x10/ct1000x10ssd9": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/articles/pc-users/keeping-your-computer-up-to-date": [
+    "alt-text"
+  ],
+  "crucial.com/articles/about-ssd/smart-and-ssds": [
+    "alt-text"
+  ],
+  "crucial.com/ssd/x10-pro/ct4000x10prossd9": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/catalog/memory/server": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t700/ct4000t700ssd3": [
+    "meta-tags"
+  ],
+  "crucial.com/support/articles-faq-ssd/eject-usb-storage-drive-macos": [
+    "meta-tags"
+  ],
+  "crucial.com/catalog/ssd/x9-pro": [
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t500/ct1000t500ssd8": [
+    "meta-tags"
+  ],
+  "crucial.com/upgrades/dell": [
+    "meta-tags"
+  ],
+  "crucial.com/products/gaming-products": [
+    "meta-tags",
+    "cwv"
+  ],
+  "crucial.com/memory/ddr5/cp2k16g56c46u5": [
+    "meta-tags"
+  ],
+  "crucial.com/products/memory/ddr5": [
+    "meta-tags"
+  ],
+  "crucial.com/support/ssd/ssd-install/ssd-install-steps/part-2-copy": [
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct16g48c40s5": [
+    "meta-tags"
+  ],
+  "crucial.com/support/articles-faq-ssd/about-m2-ssd-screws": [
+    "meta-tags"
+  ],
+  "crucial.com/articles/pc-builders/water-cooling-vs-air-cooling": [
+    "meta-tags"
+  ],
+  "crucial.com/ssd/mx500/ct4000mx500ssd1": [
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t700/ct4000t700ssd5": [
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr4/ct16g4sfd824a": [
+    "meta-tags"
+  ],
+  "crucial.com/articles/about-ssd/pcie-gen5-ssd": [
+    "meta-tags"
+  ],
+  "crucial.com/support/articles-faq-memory/what-is-a-memory-rank": [
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct16g48c40u5": [
+    "meta-tags"
+  ],
+  "crucial.com/catalog/memory/ddr3": [
+    "meta-tags"
+  ],
+  "crucial.com/ssd/x10-pro/ct2000x10prossd9": [
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr4/ct8g4sfra266": [
+    "meta-tags"
+  ],
+  "crucial.com/articles/pc-builders/a-guide-to-processor-types": [
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t500/ct4000t500ssd3": [
+    "meta-tags"
+  ],
+  "crucial.com/catalog/ssd/server": [
+    "meta-tags"
+  ],
+  "crucial.com/upgrades/lenovo": [
+    "meta-tags"
+  ],
+  "crucial.com/support/ssd-support/t500-support": [
+    "meta-tags"
+  ],
+  "crucial.com/ssd/t705/ct4000t705ssd5": [
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr4/cp2k16g4dfra32a": [
+    "meta-tags"
+  ],
+  "crucial.com/promo": [
+    "meta-tags"
+  ],
+  "crucial.com/upgrades/crucial-scanner-results": [
+    "meta-tags"
+  ],
+  "crucial.com/products/ssd/crucial-x10-pro-ssd": [
+    "meta-tags"
+  ],
+  "crucial.com/articles/about-graphic-design/dedicated-graphics-card-vs-shared-cpu": [
+    "meta-tags"
+  ],
+  "crucial.com/compatible-upgrade-for/lenovo/ideapad-l340-15irh-gaming": [
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct2k16g48c40u5": [
+    "meta-tags"
+  ],
+  "crucial.com/ssd/bx500/ct480bx500ssd1": [
+    "meta-tags"
+  ],
+  "crucial.com/ssd/x9-pro/ct4000x9prossd9": [
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr5/ct2k32g64c52cs5": [
+    "meta-tags"
+  ],
+  "crucial.com/ssd/p3-plus/ct4000p3pssd8": [
+    "meta-tags"
+  ],
+  "crucial.com/store/advisor.": [
+    "meta-tags"
+  ],
+  "crucial.com/catalog/memory/lpcamm2": [
+    "meta-tags"
+  ],
+  "crucial.com/ssd/eol_p1/ct1000p1ssd8": [
+    "meta-tags"
+  ],
+  "crucial.com/memory/ddr3/ct2kit102464bf160b": [
+    "meta-tags"
+  ],
+  "crucial.com/upgrades/apple": [
+    "meta-tags"
+  ],
+  "crucial.com/upgrades/asus": [
+    "meta-tags"
+  ],
+  "crucial.com/upgrades/hp": [
+    "meta-tags"
+  ],
+  "crucial.com/promos/save-your-photos-month-giveaway": [
+    "cwv"
+  ],
+  "crucial.com/scanview/%3Chex%3E": [
+    "cwv"
+  ],
+  "crucial.com/welcome": [
+    "cwv"
+  ],
+  "crucial.com/compatible-upgrade-for/asus/vivobook-15-x515ea": [
+    "high-organic-low-ctr"
+  ],
+  "crucial.com/compatible-upgrade-for/lenovo/thinkpad-t480": [
+    "high-organic-low-ctr"
+  ],
+  "crucial.com/upgrades/fujitsu/fmv-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-wave-600-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-11-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-spectre-x360-13-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/acer-spin": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/elitegroup(ecs)/elite-group-(ecs)-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/beelink/beelink-desktop": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/msi(microstar)/msi-(micro-star)-all-in-one": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-24-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-bp-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-max": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vgn-fj-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17g-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asus/asus-handheld": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-13": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-bc-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-phoenix-800": [
+    "sitemap"
+  ],
+  "crucial.com/blog/technology/linus-tech-tips-visits-micron": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/primergy": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/samsung/n-series-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-p-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/xps": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/msi(microstar)/msi-(micro-star)-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/essential---value-line": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/biostar/biostar-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/gigabyte/gigabyte-desktop-platform-solutions": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-22-dgxxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lgelectronics/lg-laptops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-14-dw-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-11-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/samsung/odyssey-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-460-pc-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/alienware/alienware-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/quanta/stratos-servers": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-es1": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a500-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-15-bk-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-te02": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-max": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/yoga": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-z40-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/tyan/tyan-servers": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-c50": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-24-f-all-in-one-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/enduro": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-13-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a200-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vgn-s-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-15-dr-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkcentre": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-power-15-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-27-d-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/supermicro/supermicro-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-17-db-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-15-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c55d": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-15-ep-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-l400-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-a40-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-22": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/mx300-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/apple/imac-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-x": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-ab0xx-ab19xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-go": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a350-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/clevo/other-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vpcy-series": [
+    "sitemap"
+  ],
+  "crucial.com/articles/about-ssd/how-are-ssds-made": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-27-cb0xxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/accessories": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c40d-series-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/eurocom/eurocom---all-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-25l-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/victus-16-s-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-p8xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/synology/synology-rackstation": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/point-of-sale": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-dw-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-t110-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-s-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/vxrail-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/shuttle/shuttle-slim": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/optiplex": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/gigabyte/gigabyte-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-di-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-p50-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vpce-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/lifebook-s-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-14-v-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-tower": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-spectre": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-pro": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/samsung/np-series-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17-x-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-34": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-svf-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-17-w-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-tp01-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-s75-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/lifebook-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-svs-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-dr-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-te01": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l9xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-a30-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/victus-16-d-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-15-bq-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-a7": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-ay5xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/inspur/inspur-servers": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a210-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-plus": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-2000-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-c50-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-m01-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/dynadesk": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-all-in-one": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-cu-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-dy-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/eliteone": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-x20-e-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-sleekbook": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17-cp-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/ideapad": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-products": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-x-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-u400-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-l40-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-n01-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-fq3xxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/backup-and-recovery-appliances": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-m-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-bf-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/framework/framework-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-m50d-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/medion/medion-laptop-netbooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-storage-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l75-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-3d": [
+    "sitemap"
+  ],
+  "crucial.com/articles/about-ssd/external-ssds-vs-internal-ssds": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-a50-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-14-ce-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-a30-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-z-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/panasonic/panasonic-lx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-27-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/zhaoyang": [
+    "sitemap"
+  ],
+  "crucial.com/returns/warranty-home-faq": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-24-q-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-hdx-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/msi(microstar)/msi-(micro-star)-servers": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-fq5xxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c75-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-be-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-ck-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-s40-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-24-c-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-15-dq-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vgn-ar-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/wyse-thin-client": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-15-ek-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-14-ba-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/clevo/clevo-all-in-one": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/aorus/aorus-laptop-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-bw-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-flex-system": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-32-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/jetway/jetway-barebones": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/samsung/r-series-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a660-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/vostro-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-bs5xx---bs7xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-c30-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-p500-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-190-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-15": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-r-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-z50-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-s40dt-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-spectre-folio-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/supermicro/supermicro-workstations": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-k-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-p-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-r800-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-24-c-all-in-one-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-slim": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-16-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/sun/sparcserver": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l550-series": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/bx500-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-edge-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-gy0-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-a300-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/razer/razer---all-product-types": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-l300-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-17-an---ap-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-f5-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-15-cn-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-17": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/drobo/drobo-storage": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-u400-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-gaming-15": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-sve-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15q-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l55-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-d-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l505-series": [
+    "sitemap"
+  ],
+  "crucial.com/blog/storage": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/apollo-4000-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/revo": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-27-n-series": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/ssd/x10-pro": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-35l-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspirerevo": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-p50-c-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c640-series-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/legion-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-xiaoxin": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/nec/express": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-17-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-24-b-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-plus-16-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-14": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asus/asus-netbooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/evga/evga---all-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/dynabook": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/zotac/zotac-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/acer-gamer-line": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vgn-aw-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c650-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/motherboard": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-r900-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l300-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-15-ew-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-11e-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-da2xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/lifebook-u-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-14-dv-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asus/asus-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-db-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-24-e-all-in-one-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/probook": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l55w-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/minisforum/minisforum-desktop": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-yoga-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l700-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/sony/game-console": [
+    "sitemap"
+  ],
+  "crucial.com/blog/technology/how-does-the-human-brain-compare-to-a-computer": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/celsius": [
+    "sitemap"
+  ],
+  "crucial.com/company/awards/awards-2": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/elitedesk-800": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-ay1xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-tower-plus": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-15-ds-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-510-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/quanta/stratos-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/articles/about-ssd/what-is-a-portable-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c55t-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/apollo-6000-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asus/asus-servers": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-ay0xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-f-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l640-645-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/panasonic/toughbook": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-21-all-in-one-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-spectre-13-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/futro": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-v-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-s-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-plus-14-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/elite-dragonfly": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-40l-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-slim-s01-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-rugged": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l305-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-20": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/ssd/x8": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-eg-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-fq2xxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-gaming-15-dk-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/emc-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-g-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l55-c-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-22-dfxxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-m8xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c70": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-m6-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-14-bf-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-27-cb1xxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-l-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-r-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/advantech/advantech-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/gmktec/gmktec-mini-pc": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-fit-series": [
+    "sitemap"
+  ],
+  "crucial.com/blog/memory": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/panasonic/panasonic-lv-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/tablet-pc": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-m700-series-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinksystem-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-z-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-bs0xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-a10-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-14-series": [
+    "sitemap"
+  ],
+  "crucial.com/blog/technology/how-to-recover-deleted-files": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-fq4xxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hpe-synergy": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-svt-series-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-lite": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-27-d-all-in-one-series": [
+    "sitemap"
+  ],
+  "crucial.com/returns/cancel-rma": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-dp-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-da0xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-chromebox": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-13m-bdxxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/shuttle/shuttle-xpc-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/shuttle/xpc-nano": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-t-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l45-b-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-24-all-in-one-plus": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-27-cr-all-in-one-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-b40-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-a5": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-16-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/porsche-design-acer-book-rs": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-a200-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-l7xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/quanta/quantaplex": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/qosmio-g50-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-m-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/elitegroup(ecs)/elite-group-(ecs)-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/ssd/t500": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-u500-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-touchsmart-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-13-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15t-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-24-x-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/nec/nec-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-880-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/intel/intel-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-gaming-16-series": [
+    "sitemap"
+  ],
+  "crucial.com/articles/pc-users/why-is-my-laptop-so-slow": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17-y-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-27-q-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c8xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/supermicro/superblade": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/supermicro/supermicro-servers": [
+    "sitemap"
+  ],
+  "crucial.com/blog/technology": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/zcentral-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/ideacentre": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-c40-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omnidesk": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-x360-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-18": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-c-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/poweredge": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-e5": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-22-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aceraltos": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkstation": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-embedded-box": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-system-xseries": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-svj-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-da3xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-storage-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/vostro-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-17-g-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/intel/intel-processors": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-elite": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/acer-server": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/m550-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-motherboard-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-spectre-x360-convertible": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-c660-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-24-all-in-one": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-m3": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-590-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/prodesk": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-24-d-all-in-one-series": [
+    "sitemap"
+  ],
+  "crucial.com/blog/gaming/shellback-tech-gives-back-to-disabled-veterans-and-first-responders": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/g-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-obelisk-8xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-fq-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l70-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-af-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-m7-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-nb-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l500-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/precision-mobile-workstations": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-13-ba1x-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-stream": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-20-all-in-one-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-690-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-bs-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-er-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-gx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/lifebook-n-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-17-e-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15g-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/qosmio-x700-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-x30-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-ey-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c670-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-aw-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-13-ag-series": [
+    "sitemap"
+  ],
+  "crucial.com/blog/technology/san-vs-nas-storage-difference": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-14-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-x50-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-er-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17-ca-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-15-cr-series": [
+    "sitemap"
+  ],
+  "crucial.com/store/crucial-advisor-trust": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/memory/micron-did-agnostic": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-s55-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-u800-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-ef-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-23": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/alienware/alienware-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/ssd/t700": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-27-all-in-one": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-15": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/acer-chromebox": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/elitedesk-700-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vpcc-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-14-cd-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/esprimo": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-m10-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-dy-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-ac-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/msi(microstar)/msi-(micro-star)-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-elite": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/quanta/quantagrid": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-700-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-nb10-series": [
+    "sitemap"
+  ],
+  "crucial.com/support/ssd-install-laptop": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-15-bp-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-13-y-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-gw-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-27-c-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/aaeon/aaeon-motherboard": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-fr-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-17": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-micro-plus": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-radius": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/mx100-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/acer-one": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-s50-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-c70": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/travellite": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/samsung/galaxy-book": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-16": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asrock/asrock-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/sun/sun-server": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-15-edxxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-s8xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-power-desktop-series": [
+    "sitemap"
+  ],
+  "crucial.com/support/ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/enterprise-x-architecture": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asustor/nas": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l40-series-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-elite-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/storeeasy-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/qnap/qnap-server": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/synology/synology-diskstation": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c50": [
+    "sitemap"
+  ],
+  "crucial.com/blog/memory/mix-and-match-dram": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/tyan/tyan-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-15-eyxxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-micro": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14q-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-e-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-netbooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-24-all-in-one": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-15-dh-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-bj-series": [
+    "sitemap"
+  ],
+  "crucial.com/support/memory-motherboard-compatibility": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/intel/intel-servers": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a100-series-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/inspiron-laptops-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-spectre-x360-15-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/cloudline": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/valve/all-valve-products": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkserver": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-b-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-bs-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l655-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-15-dc1xx-2xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-p7xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-z-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a215-series": [
+    "sitemap"
+  ],
+  "crucial.com/articles/about-ssd/how-to-choose-the-best-external-ssd-for-gaming": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-27-r-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-x40-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l12-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-gaming-15-ak-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-a50-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-cm-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-l30-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/lifebook-t-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/flex-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-spectre-x2-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l55t-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-24-r-series": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/bx200-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-45l-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/omnibook": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c645-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-s-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-32-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/medion/medion-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asus/asus-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/proliant": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/emaxx/emaxx---all-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-zbook": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-u300-series-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-24-g-all-in-one-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-r-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/synology/flashstation": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/extensa": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-fq1xxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-15-ce-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-ec-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l8xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/framework/framework-laptops": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/x8-portable-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-15-es-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-p-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite": [
+    "sitemap"
+  ],
+  "crucial.com/blog": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-premium": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/apollo-35": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-r-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-17-c-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-x40-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-loq": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkbook": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-fy-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-cs-series": [
+    "sitemap"
+  ],
+  "crucial.com/products/memory/mac/crucial-memory-mac": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-15-eu-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l310-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/apple/mac-mini-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vpcw-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-ac-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-14-al-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/victus-16-e-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/datacenter-scalable-solutions": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-ab2xx-ab59xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17-series": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/ssd/bx500": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-ck-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/3000-series-systems": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/crucial-mx300-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-v": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-l500-series": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/ssd/p3": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vgn-xl-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/travelmate": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-c650-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-vero": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-r-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tcxwave-pos": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-13-ab-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-slim-plus": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-570-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-t-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a300-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-bd-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-27-x-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-z30-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-gr-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-chromebook": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-17-f-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-swift": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vpcs-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-15-dg-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-a30-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-z30-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vpcf-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c55-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14s-dq-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-gu-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/lifebook-p-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a105-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/medion/medion-desktop": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/veriton": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-au-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-15-as-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-14-dh-series": [
+    "sitemap"
+  ],
+  "crucial.com/blog/gaming": [
+    "sitemap"
+  ],
+  "crucial.com/products/memory/mac/apple": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-du-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-z-series-workstations": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-da1xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-d-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-m11-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-pro-pg-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/victus-15l": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/shuttle/1337-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asus/asus-all-in-one": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/acerpower": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-260-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/evga/evga---laptops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-14-ec-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-15": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/switch-tablets": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-e-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-14-dy-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/nzxt/nzxt-desktop": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/spectre": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-business-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/returns/rma-progress": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-bs1xx---bs2xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/products": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-p300-p300d-p305-305d-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14s-c-series": [
+    "sitemap"
+  ],
+  "crucial.com/products/memory/server/ddr4": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-max-tower": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omnistudio": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-14-ab-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/msi(microstar)/msi-(micro-star)-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-19": [
+    "sitemap"
+  ],
+  "crucial.com/blog/technology/the-3-2-1-backup-rule": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-13-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/gigabyte/gigabyte-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-r": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-max-micro": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/aic/aic-servers": [
+    "sitemap"
+  ],
+  "crucial.com/blog/storage/how-qlc-nand-streamlines-machine-learning-applications": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/legacy-ssds": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l55-b-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-15-br-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-c8xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l350-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-r900-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/colorful/colorful-motherboard": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-g-series": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/crucial-p2-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-elite-hpe": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/latitude": [
+    "sitemap"
+  ],
+  "crucial.com/products/memory/mac/macpro": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-series": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/bx300-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vgn-fw-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vgn-nr-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/elitebook": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/samsung/series-7": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-15-cp-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c40-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vgn-n-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-r700-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-s9xxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-z1-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-cc-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/amilo-m-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-870-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-slim": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-svl-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-15-en-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-p-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/nzxt/nzxt-motherboard": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-14-dd-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/sprout": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17-cn-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-spectre-x360-16-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-c660-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-bw-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-24-a-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-a205-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/intel/intel-desktop": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/evoo/evoo-all-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asus/asus-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17-p-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17-by-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/conceptd-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-all-in-one": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/network-storage-systems": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-eq-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-16": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-p55-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-ba-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/biostar/biostar-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/sony/vgx-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/zotac/zotac-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-700": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/fujitsu/lifebook-e-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/precision-workstation": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-cf-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-560-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-30l-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/victus-16-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-gaming-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-fc-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/netgear/readynas": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/nec/nec-laptops---netbook": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-vgn-cr-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/gigabyte/gigabyte-servers": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-s70-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asrock/asrock-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/qnap/qnap-nas": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/asrock/asrock-servers": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-l8xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-p200-205-series": [
+    "sitemap"
+  ],
+  "crucial.com/blog/gaming/gaming-on-the-autism-spectrum": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l510-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-x360-15-er-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-17-bs-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinkpad-s-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-24-k-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-22-ddxxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-s45-b-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-13-ba0x-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-17-ck---cm-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-15-dc0xx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/inspiron-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/ssd/mx500": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-max-slim": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14s-d-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-business-desktops": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-omen-17-cb-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-a40-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/powervault": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-pro-tower": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-eh-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l450-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-t130-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l650-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-m800-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/maxsun/maxsun-motherboard": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-cd-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-a3": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/nextscale": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-15-ee-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-slimline-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15s-fq0xxx-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-24-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-nitro-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-x360-15-aq-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-notebooks": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-y-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-15-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/cisco/blade-servers": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dell/dell-plus": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/msi(microstar)/msi-(micro-star)-handheld": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-l50-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-c40-series": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/ssd/x6": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/synology/dva-series": [
+    "sitemap"
+  ],
+  "crucial.com/catalog/ssd/p3-plus": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/portege-x20w-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-l50-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/thinksmart": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/advantech/advantech-motherboards": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-spectre-x360-14-models": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/victus-15-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-14-bk-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-v5": [
+    "sitemap"
+  ],
+  "crucial.com/products/ssd/bx100-ssd": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-gaming-tg01-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/proone": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-zhan-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/lenovo-zhaoyang": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-ep-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-14-am-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/acer/aspire-14-ai": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/victus-16-r-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/satellite-pro-l70-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/envy-27-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/lenovo/erazer": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hitachi/server-blade": [
+    "sitemap"
+  ],
+  "crucial.com/support": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/vaio/vaio-fit-15f-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/hp-ddr4-laptop": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/hp/pavilion-15-cw-series": [
+    "sitemap"
+  ],
+  "crucial.com/upgrades/dynabook/tecra-s-series": [
+    "sitemap"
+  ]
+}

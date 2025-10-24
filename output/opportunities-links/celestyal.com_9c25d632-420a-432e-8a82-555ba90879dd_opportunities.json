@@ -1,0 +1,90 @@
+{
+  "stats": {
+    "totalUrls": 58,
+    "generic-opportunity": 0,
+    "broken-internal-links": 0,
+    "alt-text": 18,
+    "meta-tags": 22,
+    "cwv": 4,
+    "security-csp": 2,
+    "paid-traffic": 0,
+    "sitemap": 5,
+    "high-page-views-low-form-views": 1,
+    "a11y-assistive": 6
+  },
+  "generic-opportunity": [],
+  "broken-internal-links": [],
+  "alt-text": [
+    "celestyal.com/us/group-cruises",
+    "celestyal.com/us/our-cruises/idyllic-greece/7-nights",
+    "celestyal.com/us/onboard/wellness",
+    "celestyal.com/us/blog",
+    "celestyal.com/us/onboard/whats-included",
+    "celestyal.com/us/destinations/mediterranean/greece-and-greek-islands/katakolo",
+    "celestyal.com/us/destinations/mediterranean/greece-and-greek-islands/mykonos",
+    "celestyal.com/us/onshore/ancient-temple-of-poseidon-and-cape-sounion",
+    "celestyal.com/us/cultural-cruises",
+    "celestyal.com/us/destinations/arabian-gulf/bahrain",
+    "celestyal.com/us/onshore/minoan-palace-of-knossos-1st-european-civilisation",
+    "celestyal.com/us/our-cruises/iconic-arabia/3-nights",
+    "celestyal.com/us/destinations/mediterranean/italy/venice",
+    "celestyal.com/us/destinations/mediterranean/greece-and-greek-islands/rhodes",
+    "celestyal.com/us",
+    "celestyal.com/us/excursions/dare-to-ride-the-flying-fox-zipline",
+    "celestyal.com/us/destinations/mediterranean/greece-and-greek-islands/corfu",
+    "celestyal.com/us/blog/the-wildflowers-of-the-greek-islands"
+  ],
+  "meta-tags": [
+    "celestyal.com/us/onshore/minoan-palace-of-knossos-1st-european-civilisation",
+    "celestyal.com/us/onshore",
+    "celestyal.com/us/onshore/sacred-delos-rhenia-island",
+    "celestyal.com/us/blog",
+    "celestyal.com/us/onshore/ancient-temple-of-poseidon-and-cape-sounion",
+    "celestyal.com/us/destinations/arabian-gulf",
+    "celestyal.com/us/winter-cruises",
+    "celestyal.com/us/terms-and-conditions/booking-conditions",
+    "celestyal.com/us/contact-us",
+    "celestyal.com/us/faqs",
+    "celestyal.com/us/deals/spring-sale-2025",
+    "celestyal.com/us/our-cruises/mediterranean-icons/heavenly-adriatic-and-idyllic-aegean-14-nights-2025",
+    "celestyal.com/us/wedding-cruises",
+    "celestyal.com/us/group-cruises",
+    "celestyal.com/us/about-us",
+    "celestyal.com/us/mini-cruises",
+    "celestyal.com/us/family-cruises",
+    "celestyal.com/us/solo-cruises",
+    "celestyal.com/us/onboard/wellness",
+    "celestyal.com/us",
+    "celestyal.com/us/cultural-cruises",
+    "celestyal.com/us/blog/the-wildflowers-of-the-greek-islands"
+  ],
+  "cwv": [
+    "celestyal.com/us/search",
+    "celestyal.com/es/deals",
+    "celestyal.com/gb",
+    "celestyal.com/us"
+  ],
+  "security-csp": [
+    "celestyal.com/head.html",
+    "celestyal.com/404.html"
+  ],
+  "paid-traffic": [],
+  "sitemap": [
+    "celestyal.com/faqs",
+    "celestyal.com/es/onshore/river-trekking-tour",
+    "celestyal.com/gb/onshore/the-acropolis-the-new-acropolis-museum",
+    "celestyal.com/gb/onshore/panoramic-tour",
+    "celestyal.com/"
+  ],
+  "high-page-views-low-form-views": [
+    "celestyal.com/us"
+  ],
+  "a11y-assistive": [
+    "celestyal.com/us/our-cruises/idyllic-greece/7-nights",
+    "celestyal.com/us/our-ships/celestyal-journey",
+    "celestyal.com/us/our-cruises/heavenly-greece-italy-croatia/heavenly-venice-greece-croatia",
+    "celestyal.com/us/our-ships/celestyal-discovery",
+    "celestyal.com/us/our-cruises/iconic-greek-islands/4-nights",
+    "celestyal.com/us/our-cruises/idyllic-greece/2025-7-nights"
+  ]
+}

@@ -1,0 +1,4376 @@
+{
+  "westjet.com": [
+    "broken-backlinks"
+  ],
+  "westjet.com/book/all-inclusive-vacations-from-edmonton": [
+    "a11y-color-contrast",
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/deals": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "structured-data",
+    "cwv",
+    "meta-tags",
+    "high-organic-low-ctr"
+  ],
+  "westjet.com/en-ca/vacations": [
+    "a11y-color-contrast",
+    "headings",
+    "broken-internal-links",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-kelowna": [
+    "a11y-color-contrast",
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNRT2/royalton-splash-riviera-cancun": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJSE4/serenade-punta-cana-beach-spa-resort": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNBC4/bahia-principe-grand-coba": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJBP2/punta-cana-barcelo-bavaro-palace": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-to-edmonton": [
+    "a11y-color-contrast",
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-calgary": [
+    "a11y-color-contrast",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/all-inclusive-vacations-from-calgary": [
+    "a11y-color-contrast",
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/deals/7": [
+    "a11y-color-contrast",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-vancouver": [
+    "a11y-color-contrast",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNBA2/barcelo-maya-riviera": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNMT2/barcelo-maya-tropical": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/all-inclusive-vacation-packages-from-toronto": [
+    "a11y-color-contrast",
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/book/all-inclusive-vacations-to-mexico": [
+    "a11y-color-contrast",
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/inflight/food-and-beverages": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNBM2/cancun-barcelo-maya-palace": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJRB2/royalton-bavaro": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-cuba": [
+    "a11y-color-contrast",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/news": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "broken-internal-links",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-to-calgary": [
+    "a11y-color-contrast",
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNAK4/bahia-principe-luxury-akumal": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNCC4/catalonia-grand-costa-mujeres-all-suites-and-spa": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-to-halifax": [
+    "a11y-color-contrast",
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNGM2/moon-palace-the-grand-cancun": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/puerto-plata/POPIC2/puerto-plata-iberostar-waves-costa-dorada-all-inclusive": [
+    "a11y-color-contrast",
+    "a11y-assistive",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flights/low-fares": [
+    "a11y-color-contrast",
+    "headings",
+    "cwv",
+    "meta-tags",
+    "high-organic-low-ctr"
+  ],
+  "westjet.com/en-ca/flights/status": [
+    "a11y-assistive",
+    "high-page-views-low-form-views",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/rbc-mastercard": [
+    "a11y-assistive",
+    "headings",
+    "alt-text",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/airport/lounges/elevation": [
+    "a11y-assistive",
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/manage/mobile-app": [
+    "a11y-assistive",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/help/discount-codes": [
+    "a11y-assistive",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/news/2024/westjet-confirms-end-to-amfa-strike": [
+    "a11y-assistive",
+    "alt-text",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/flights/status": [
+    "a11y-assistive",
+    "headings",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/world-elite": [
+    "a11y-assistive",
+    "headings",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/get-travel-ready/id-entry-requirements": [
+    "a11y-assistive",
+    "headings",
+    "high-page-views-low-form-views",
+    "alt-text",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flights/swoop": [
+    "a11y-assistive",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/news/2025/westjet-to-relax-carry-on-baggage-sizing": [
+    "a11y-assistive",
+    "headings",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/fr-fr": [
+    "a11y-assistive",
+    "alt-text",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/manage": [
+    "a11y-assistive",
+    "alt-text",
+    "cwv"
+  ],
+  "westjet.com/en-ca/interruptions/submit-expenses": [
+    "headings",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/deals/thanksgiving/vacations": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/redeem": [
+    "headings",
+    "alt-text",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-abbotsford-to-calgary": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/best-of-travel/mexico/puerto-vallarta": [
+    "headings",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards": [
+    "headings",
+    "alt-text",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/disney-vacations": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/book/all-inclusive-vacations-from-winnipeg": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-us": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/airport/lounges/elevation-lounge-access": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flights/bereavement": [
+    "headings",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-flights-from-toronto": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/all-inclusive-vacations-from-montreal": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flights/our-fares": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/all-inclusive-vacations-from-ottawa": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/inflight/entertainment": [
+    "headings",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-abbotsford-to-toronto": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-flights": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/airport/terminals": [
+    "headings",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/careers": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-flights-from-edmonton": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/baggage/lost-delayed-damaged": [
+    "headings",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-toronto": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJLA4/bahia-principe-luxury-ambar": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/inflight/business-cabin": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/inflight/premium-cabin": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNBR2/breathless-riviera-cancun": [
+    "headings"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-edmonton": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ie": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/aircraft/boeing-737-700-next-generation": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/st-martin-st-maarten/SXMSM2/secrets-st-martin-resort": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-vancouver": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/tiers": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-edmonton": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/get-travel-ready": [
+    "headings",
+    "high-page-views-low-form-views",
+    "alt-text",
+    "broken-internal-links",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNNN2/dreams-natura-resort-spa": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNAV2/ava-resort-cancun": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-montreal": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/vacations/offers": [
+    "headings",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-flights-from-calgary": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNHC3/hilton-cancun-mar-caribe": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-las-vegas": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/pets": [
+    "headings",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/baggage/allowance": [
+    "headings",
+    "broken-internal-links",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-vancouver": [
+    "headings",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJDF2/dreams-flora-resort-and-spa": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-flights-from-vancouver": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-dominican-republic": [
+    "headings",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/inflight/menu": [
+    "headings",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-calgary": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-abbotsford": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/news/2025/westjet-group-completes-integration-of-sunwing-airlines--success": [
+    "headings",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJBA4/bahia-principe-grand-punta-cana": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-curacao": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/all-inclusive-vacation-packages-from-vancouver": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/legal/travel-terms-conditions/westjet-flights": [
+    "headings",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/ocho-rios-runaway-bay/MBJGB4/bahia-principe-grand-jamaica": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/contact-us": [
+    "headings",
+    "broken-internal-links",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNNI2/nickelodeon-hotel-resorts-riviera-maya": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNDR2/cancun-dreams-riviera-cancun": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/vacations/featured": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/deals/vacations/1": [
+    "headings",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/baggage": [
+    "headings",
+    "high-page-views-low-form-views",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/world-elite/lounge-exchange": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-edmonton": [
+    "headings",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-calgary": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/LRMBP4/bahia-principe-luxury-bouganville": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNPH2/planet-hollywood-cancun": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/varadero/VRAME4/melia-internacional-varadero": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-bahamas": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNIL2/cancun-iberostar-selection-paraiso-lindo": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/liberia/LIRPH2/planet-hollywood-costa-rica": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/deals/2": [
+    "headings",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNIB2/iberostar-waves-paraiso-beach": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-gb/flights": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNGB4/bahia-principe-grand-tulum": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-mx/deals": [
+    "headings",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/nassau/NASGH2/grand-hyatt-baha-mar": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-it/flights": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-bm/flights/status": [
+    "headings",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/contact": [
+    "headings",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/puerto-vallarta/PVRCC4/grand-decameron-complex-trademark": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flights/payment/flexpay": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNBC2/barcelo-maya-caribe": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-flights-to-kelowna": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/airport/security-screening": [
+    "headings",
+    "structured-data"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNGR2/grand-palladium-select-costa-mujeres": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flights/fees": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-costa-rica": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/world-elite/benefits": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/new-westjet-rewards": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/news/2023/the-westjet-group-marks-successful-integration-of-ultra-low-cost": [
+    "headings",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-abbotsford-to-regina": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-calgary": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/contact": [
+    "headings",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNMB2/barcelo-maya-beach": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards": [
+    "headings",
+    "alt-text",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/news/2024/westjet-statement-on-lynx-air-": [
+    "headings",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-abbotsford-to-edmonton": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/help/baggage": [
+    "headings",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNHI3/hilton-cancun-all-inclusive-resort": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/interruptions/compensation-claims": [
+    "headings",
+    "structured-data",
+    "cwv"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNFB4/the-fives-beach-hotel-residences": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flights": [
+    "headings",
+    "high-page-views-low-form-views",
+    "alt-text",
+    "broken-internal-links",
+    "structured-data",
+    "cwv",
+    "meta-tags",
+    "high-organic-low-ctr"
+  ],
+  "westjet.com/en-ca/hotels/puerto-vallarta/PVRBA2/barcelo-puerto-vallarta": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/rbc-mastercard/companion-voucher": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/get-travel-ready/advisories": [
+    "headings",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/all-inclusive-vacations-from-halifax": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/sponsorship/cpl/offer": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacation-packages-to-barbados": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/LRMSU2/sunscape-dominicus-la-romana": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJGA4/bahia-principe-grand-aquamarine": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/varadero/VRAIV4/iberostar-selection-varadero": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNIC2/iberostar-selection-cancun": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/aircraft": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-flights-from-toronto-to-montreal": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-toronto": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNTR2/trs-coral-hotel": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-vacations-to-mexico": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-calgary": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/all-inclusive-adults-only-vacations": [
+    "headings"
+  ],
+  "westjet.com/en-ca/aircraft/boeing-737-8-max": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/deals/black-friday-cyber-monday-sale": [
+    "headings"
+  ],
+  "westjet.com/book/cheap-flights-to-las-vegas": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacation-packages-to-aruba": [
+    "headings",
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNRY2/royalton-riviera-cancun": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-kelowna-to-vancouver": [
+    "headings"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNHZ2/hyatt-ziva-cancun": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-london-england": [
+    "headings",
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights": [
+    "headings",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/manage/check-in": [
+    "headings",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNNS2/dreams-sapphire-resort-spa": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJBF4/bahia-principe-fantasia-punta-cana": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/deals": [
+    "headings",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/liberia/LIRDL2/dreams-las-mareas": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/flights": [
+    "headings",
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flights/route-map": [
+    "headings",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/help/westjet-wifi": [
+    "headings",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flights/direct-flights": [
+    "headings",
+    "structured-data",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/aruba/AUADAR/divi-aruba-all-inclusive": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/huatulco/HUXDH2/dreams-huatulco-resort-and-spa": [
+    "headings",
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flight-guide/trip": [
+    "high-page-views-low-form-views",
+    "cwv"
+  ],
+  "westjet.com/en-ca": [
+    "high-page-views-low-form-views",
+    "alt-text",
+    "broken-internal-links",
+    "structured-data",
+    "cwv",
+    "meta-tags",
+    "high-page-views-low-form-nav"
+  ],
+  "westjet.com/en-ca/flight-guide/trip/": [
+    "high-page-views-low-form-views",
+    "cwv"
+  ],
+  "westjet.com/en-us/inflight/entertainment": [
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/deals/thanksgiving/flights": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNSC4/cancun-sandos-caracol-eco-resort": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-vacations-from-calgary": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/partner-airlines": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/aircraft": [
+    "alt-text"
+  ],
+  "westjet.com/en-us/rewards/new-westjet-rewards": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/earn": [
+    "alt-text"
+  ],
+  "westjet.com/en-ca/hotels/CUNHY2/hyatt-zilara-riviera-maya": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/tiers/silver": [
+    "alt-text"
+  ],
+  "westjet.com/en-pa/baggage/carry-on": [
+    "alt-text",
+    "broken-internal-links",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-to-abbotsford": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/member-exclusive": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/get-travel-ready": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJSS2/sunscape-coco-punta-cana": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/inflight/menu": [
+    "alt-text"
+  ],
+  "westjet.com/en-ca/guest-updates": [
+    "alt-text",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/inflight/premium-cabin": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/credit-cards/world-elite/statuslift": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/best-of-travel/canada/winnipeg": [
+    "alt-text",
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNAP4/atelier-playa-mujeres": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/earn": [
+    "alt-text"
+  ],
+  "westjet.com/en-us/rewards/credit-cards/rbc-mastercard/cardholder-benefits": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/world-elite/companion-voucher": [
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/inflight": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/es-mx": [
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNCI2/cancun-marina-el-cid-spa-and-beach-resort": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-vacations-from-vancouver": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/contact/on-hold-self-serve": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/credit-cards/rbc-world-elite-mastercard": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/aircraft/boeing-737-8-max": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/inflight/food-and-beverages": [
+    "alt-text"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-saskatoon": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/credit-cards/rbc-mastercard/companion-voucher": [
+    "alt-text"
+  ],
+  "westjet.com/en-us/help": [
+    "alt-text"
+  ],
+  "westjet.com/en-us/rewards/credit-cards": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/all-inclusive-adults-only-vacations-to-mexico": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-adults-only-vacations-to-dominican-republic": [
+    "alt-text",
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/destinations": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-orlando": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/manage": [
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/extras/gift-card": [
+    "alt-text"
+  ],
+  "westjet.com/en-ca/manage/seats": [
+    "alt-text",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-aruba": [
+    "alt-text",
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-to-puerto-vallarta": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/montego-bay/MBJRB4/bahia-principe-luxury-runaway-bay": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-calgary": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/careers/cabin-crew": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/montego-bay/MBJOC4/ocean-coral-spring": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-flights-from-vancouver-to-toronto": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJBB2/barcelo-bavaro-beach-adults-only": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "westjet.com/shop/confirmation": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/airport/lounges": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-prince-george": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/manage/dashboard/lookup": [
+    "broken-internal-links",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/sign-in#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/best-of-travel/caribbean": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/es-us": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/rewards/contact-us#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-raleigh": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-st-johns-to-dublin-ireland": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-london-england": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/manage/dashboard/details": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-orlando": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/manage/check-in#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-charlottetown": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-st-martin-st-maarten-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-toronto-to-whitehorse": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-grand-cayman-from-kelowna": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-gb/destinations/europe/france": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-santa-clara-to-ottawa#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-tucson": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/destinations/discover/toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-grande-prairie-to-hamilton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/manage/change/seatmap/0": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-san-francisco-to-halifax#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-fort-st-john-to-prince-george": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-holguin-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/manage": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-kingston": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-cozumel": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/manage/seats#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-hamilton-to-regina": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-greenville-spartanburg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-st-johns-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-fr/destinations": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-toronto-from-glasgow-scotland": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-cancun-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/flights/low-fares": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-do": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-vacation-packages": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-new-york-john-f-kennedy": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-winnipeg-from-las-vegas#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/": [
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-flights-from-orlando-to-halifax": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-liberia-to-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-tucson-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/shop/flight/0": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/manage/check-in": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-waterloo-to-honolulu": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-cozumel": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/inflight/economy-cabin": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-victoria-from-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-glasgow-scotland#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/destination-wedding-vacation-packages-to-barbados": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-moncton-to-victoria": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-philadelphia-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/beach-vacation-packages-to-barbados": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/world-elite/70ec": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-to-toronto-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-atlanta": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-gander-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/manage/check-in": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-varadero": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/flights": [
+    "broken-internal-links"
+  ],
+  "westjet.com/shop/confirmation#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/deals/summer-sale/vacations": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/en-gb": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-to-cancun-from-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-charlottetown-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-puerto-vallarta-to-prince-george": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-waterloo": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-comox-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-st-johns-from-winnipeg#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-san-diego": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-st-lucia#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/destinations/caribbean-central-america/jamaica": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-abbotsford#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-st-lucia-hewarnorra": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-gb/best-of-travel": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-san-diego#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-grande-prairie#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/special-needs": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-nanaimo-to-toronto#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-sydney-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/manage/dashboard/lookup": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-is/inflight/entertainment": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-waterloo": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/all-inclusive-vacations-from-kitchener-waterloo": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-fort-st-john-to-prince-george#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-winnipeg-from-abbotsford": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-las-vegas-from-abbotsford": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-brandon-to-yellowknife": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-varadero": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/legal/privacy-policy": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/manage/retrieve-itinerary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-kr": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-waterloo-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/flights#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-victoria-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-charlottetown-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-hamilton-to-comox": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-london-to-varadero": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-london-england-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-ca/legal/modalites-conditions-voyages#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-kelowna-from-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/flights/status": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-orlando-from-calgary#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-cayo-coco": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/adults-only-vacation-packages-to-barbados": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-tucson": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-fort-mcmurray-to-yellowknife": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-comox-to-hamilton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-deer-lake-to-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-st-johns-from-richmond": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-hamilton-to-calgary#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-indianapolis": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-el-paso": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/ecomm/payment/summary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-cancun-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-puerto-vallarta": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-ca/interruptions": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-san-diego": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-mazatlan": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-saskatoon-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-grande-prairie-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montego-bay-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/british-columbia/cheap-vacation-packages-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-gander": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-nanaimo-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-curacao": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-glasgow-scotland": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-honolulu": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-bs": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-toronto-from-dublin-ireland": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-st-martin-st-maarten": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kamloops-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-boston-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/vacations#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-st-johns": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-whitehorse": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-deer-lake-to-fort-mcmurray#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-toronto-from-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/vacations/exclusive-vacation-packages": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-cabo-san-lucas": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-raleigh": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/europe/all-inclusive-family-vacation-packages-to-ireland": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-miami-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/manage/seats": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/vacations-to-st-martin-st-maarten": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-prince-george-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-vacation-deals": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-beach-vacations": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-vancouver-to-fort-st-john": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/account/activity": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-los-angeles": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-toronto-to-curacao": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-bridgetown-to-regina": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-grand-cayman-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-ca/flight-notifications/update-settings": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-ca/aide/offre-surclassement#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-whitehorse-from-toronto#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-terrace-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/destinations/caribbean-central-america/grenada": [
+    "broken-internal-links"
+  ],
+  "westjet.com/shop/flight/1": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-beach-vacation-packages-to-st-martin-st-maarten#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-vancouver-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-pa/flights/fees": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-san-jose": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-quebec-city-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/flights/our-fares": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/dominican-republic/all-inclusive-beach-vacation-packages-to-punta-cana": [
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-victoria": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/dominican-republic/all-inclusive-vacations-to-puerto-plata": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-waterloo-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-thunder-bay-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/destinations/discover/disneyland-resort-in-california": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/en-ca/destinations/discover/tokyo": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montego-bay-to-vancouver#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-costa-rica-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-adults-only-vacations-to-bahamas": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-costa-rica-from-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/destinations/caribbean-central-america/bonaire": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacation-packages-to-turks-and-caicos": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-nl": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-cr": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-saskatoon#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-calgary-from-hamilton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-regina": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-sydney-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-cu": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-grand-cayman": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-antigua": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-st-johns-from-halifax#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-fort-lauderdale#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-liberia-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-calgary-from-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-grande-prairie-to-fort-mcmurray": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-winnipeg-from-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-saskatoon-to-kamloops": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/manage/dashboard/lookup": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-los-angeles-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/mobile#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-london-to-grande-prairie": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-thunder-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-victoria-from-calgary#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-charlottetown": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-sacramento": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-orlando#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-comox-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/beach-vacations-to-cuba": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-nanaimo-to-cleveland#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-halifax-to-chicago": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-chicago-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-terrace": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/flights": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-bz/rewards/credit-cards/rbc-world-elite-mastercard": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/canada/family-vacation-packages-to-british-columbia#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-grande-prairie-to-abbotsford": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/adults-only-vacations-to-jamaica": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-st-croix": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-gb/manage/dashboard/lookup#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-montreal-from-st-johns": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-liberia": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-kingston": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-glasgow-scotland": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-fort-myers-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-prince-george-to-puerto-vallarta": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-halifax-to-liberia": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacation-packages-to-aruba#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-reno-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-windsor": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-dallas-fort-worth": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-ca/bagages/franchise": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-thunder-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-salt-lake-city-from-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-ottawa-to-abbotsford": [
+    "broken-internal-links"
+  ],
+  "westjet.com/shop/flight/0#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-pa/rewards/new-westjet-rewards": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-reno": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-fort-st-john": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-dublin-ireland-from-st-johns": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-edmonton-from-kelowna": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-waterloo-to-las-vegas": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-dublin-ireland": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-comox-to-cabo-san-lucas": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-terrace-to-prince-george": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/manage/dashboard/lookup#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/flights/status": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-grande-prairie-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-saskatoon": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-ca/enfants/accompagnes-plus-de-2-ans": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-grande-prairie-to-saskatoon": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-st-johns-to-montreal#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-san-diego-to-nanaimo": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/california/all-inclusive-family-vacations-to-palm-springs": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/inflight/business-cabin#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-honolulu-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-manzanillo": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-victoria-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-varadero-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kamloops-to-prince-george": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-regina": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/best-of-travel/canada": [
+    "broken-internal-links",
+    "structured-data",
+    "cwv",
+    "meta-tags",
+    "high-organic-low-ctr"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-atlantis-resorts-in-bahamas": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/search": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/dominican-republic/all-inclusive-beach-vacation-packages-to-punta-cana#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/rewards/join": [
+    "broken-internal-links",
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-comox-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-vancouver-to-london-england": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-vancouver-to-washington-dulles": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-dublin-ireland": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-st-johns-from-london-england": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-abbotsford-to-thunder-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-fort-st-john-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/destinations/caribbean-central-america/panama": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-buffalo-to-fort-mcmurray": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/media/glossary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-st-lucia-hewarnorra": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-kelowna-from-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-regina-to-halifax": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-ottawa-from-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/flights/international-schedule": [
+    "broken-internal-links",
+    "sitemap"
+  ],
+  "westjet.com/book/last-minute-flights-from-abbotsford-to-halifax": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-jamaica": [
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-hamilton-to-mazatlan": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-kelowna-from-victoria": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-thunder-bay-from-new-york-laguardia#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacation-deals-to-barbados": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-waterloo-to-san-francisco": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-fort-mcmurray-from-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-cabo-san-lucas-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-kelowna": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-puerto-vallarta": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-family-vacations-to-cuba": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-boston-to-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-san-jose-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-grande-prairie": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/manage/dashboard/lookup#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-liberia-from-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-curacao-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-sx/aircraft/boeing-787-9-dreamliner": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/get-travel-ready": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-mx": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-quebec-city": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-whitehorse-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-san-diego-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-st-johns-from-nanaimo": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-louisville": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/best-of-travel/united-states": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-kamloops-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-ca/le-meilleur-du-voyage/caraibes": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-kamloops-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-savannah": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-cabo-san-lucas-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/sign-in": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-bermuda": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-comox-to-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-fr": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-winnipeg#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-bridgetown": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/vacations-to-grand-cayman-cayman-islands#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-nanaimo-to-halifax#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-kelowna-from-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-comox": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-halifax-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/shop/paymentSummary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-cabo-san-lucas-from-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-nashville-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/get-travel-ready": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-fresno-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-chicago-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-caribbean": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-terrace-to-dallas-fort-worth": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-dublin-ireland-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/beach-vacations-to-grand-cayman-cayman-islands#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/rewards/offers": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/best-of-travel/mexico": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-london-england-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-dublin-ireland-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-montreal-to-varadero": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-saskatoon-to-orlando#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/baggage": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/help": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/aircraft/boeing-737-max#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/all-inclusive-adults-only-vacations-to-mexico#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-raleigh-to-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-thunder-bay-to-terrace": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-austin-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-saskatoon-to-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-charlottetown": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-pittsburgh": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-comox-to-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacation-packages-to-dominican-republic": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-hamilton-to-fort-mcmurray": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-mazatlan-from-kelowna#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/book-trip/flights/to-turks-and-caicos": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-san-francisco": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-turks-and-caicos-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-adults-only-vacations-to-cuba": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-washington-dulles": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/account/": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/en-is/inflight/food-and-beverages": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-charlottetown-to-los-angeles": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-honolulu-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-grand-cayman": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-lc/rewards/offers": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kona-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-kr/contact/feedback": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-bahamas#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-phoenix": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-london-england": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-toronto-to-antigua": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-sx/deals": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-moncton-to-dallas-fort-worth": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-grande-prairie-to-regina#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-las-vegas-from-ottawa#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-cancun": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-london-to-abbotsford": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-houston": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/best-of-travel#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-liberia": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-quebec-city#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-fort-mcmurray-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/aircraft": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-nanaimo-to-thunder-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-abbotsford-to-palm-springs": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-jp/inflight/food-and-beverages": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-louisville": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-antigua": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-palm-springs": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-new-york-john-f-kennedy-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-holidays-to-aruba": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-calgary-to-kelowna": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-reno-from-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/aircraft/boeing-737-max": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-quebec-city-to-deer-lake": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-saskatoon": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-ixtapa-zihuatanejo": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-thunder-bay-to-halifax": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/best-of-travel": [
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-varadero": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-st-johns-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-ottawa-to-thunder-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-new-york-john-f-kennedy-from-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/manage/seats/confirmation": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-houston": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-maui": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-grande-prairie": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-calgary-to-nanaimo": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-new-orleans-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-abbotsford-to-cabo-san-lucas": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-vancouver-to-saskatoon": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-santa-clara": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-cancun-to-hamilton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/contact": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-honolulu-from-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-mx/who-we-are": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/book-trip/flights/to-charlottetown": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-moncton-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-nanaimo": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-brandon-to-comox": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-yellowknife-from-comox": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-nl/deals/thanksgiving/vacations": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-do/manage/check-in": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-adults-only-vacations-to-bermuda": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-boston-to-st-johns": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/canada/vacations-to-ontario": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-windsor": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-oakland-to-fort-mcmurray": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-sydney": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-dallas-fort-worth": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-kr/inflight/entertainment": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-calgary-to-hamilton#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-calgary-from-vancouver#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-bermuda": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-london": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-montreal-from-savannah": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-hamilton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-orlando-to-fort-st-john": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kamloops-to-fort-lauderdale": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-kona-from-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/help/baggage": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-winnipeg-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-savannah": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-fort-lauderdale": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-toronto-from-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-tampa-bay-to-st-johns": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-halifax-from-toronto": [
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/es-mx/special-needs/assistance-services": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-nanaimo-to-sarasota": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-san-juan": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-miami": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-montreal-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-toronto-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-bermuda#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-ottawa-to-orlando": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-thunder-bay-to-abbotsford": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/manage/upgrade": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-orlando": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-comox-to-halifax": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-is/rewards/partners/hotels": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/news/2024/westjet-introduces-ultrabasic-": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-gb/deals#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/vacations/offers/resort-credits-iberostar": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/manage/seats": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-nanaimo-to-kamloops": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-palm-springs": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-palm-springs-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-st-johns-to-montego-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-cayo-coco-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/manage/seats": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-montreal-to-san-francisco": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-quebec-city-from-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-st-martin-st-maarten": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-halifax": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-dublin-ireland-to-toronto#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-phoenix-from-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-kelowna-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kingston-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/vacations/why": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-salt-lake-city": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-cayo-coco-to-montreal#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-prince-george-to-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-london-england-to-st-johns": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-gb/deals": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-cayo-coco-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-san-francisco-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-prince-george-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-las-vegas-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/flights/status": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-yellowknife-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-grande-prairie-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-ottawa-to-kingston": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-turks-and-caicos": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-calgary-from-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-san-antonio": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-pa/manage/seats": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/destinations/caribbean-central-america": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/family-vacations-to-cuba#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-cancun": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-austin": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-gb#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-deer-lake": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/destinations/discover/edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-portland": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/manage/": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-london-to-varadero#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-jp/inflight/business-cabin": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-portland-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-calgary-from-fort-mcmurray#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-winnipeg-to-holguin": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-costa-rica": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-st-johns-from-saskatoon": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-st-louis": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/sign-in": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/es-es": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-kr/contact/feedback#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-saskatoon-to-victoria": [
+    "broken-internal-links"
+  ],
+  "westjet.com/manage/seats/summary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/airport": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-st-johns-to-london-england": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-charlottetown-from-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-aruba": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/deals/labour-day/vacations": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/last-minute-flights-from-montreal-to-regina": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-orlando-from-regina": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/fixtures/fr/footer": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/news/2025/westjet-statement-regarding-flight-ws2276": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-tampa-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-cancun-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-saskatoon-to-phoenix": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-prince-george-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-adults-only-vacations-to-jamaica": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-palm-springs-to-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-detroit": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-holguin-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/contact/on-hold-self-serve": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-beach-vacation-packages-to-cuba": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-saskatoon-to-san-francisco": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-portland#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-puerto-vallarta-from-saskatoon": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/flights/status#": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacation-packages-to-bahamas": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-montreal-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-puerto-vallarta-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-yellowknife": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/news/2025/westjet-invests-in-guest-experience-through-major-cabin-reconfig": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-dublin-ireland-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-bermuda": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/news/2025/rbc-and-westjet-deliver-enhanced-flexibility-and-points-earning-": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-to-calgary-from-london": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-quebec-city-from-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-nanaimo-to-san-francisco": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-thunder-bay-to-regina": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-gander-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-liberia": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-st-johns-to-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/cheap-family-vacation-packages-to-st-lucia": [
+    "broken-internal-links"
+  ],
+  "westjet.com/shop/guest-info": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-deer-lake-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/baggage": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-aruba-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-fort-mcmurray-to-deer-lake": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/news/2025/westjet-provides-update-on-june-13-2025-cybersecurity-incident": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-montego-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-st-martin-st-maarten": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-prince-george": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-mazatlan-from-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/deals/vacations/2": [
+    "broken-internal-links",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-moncton-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-cabo-san-lucas-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-terrace": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-greenville-spartanburg-from-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-fort-mcmurray-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-kansas-city-from-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-phoenix-to-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/manage/dashboard/lookup": [
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-ottawa-to-st-lucia-hewarnorra": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-saskatoon-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-beach-vacation-packages-to-st-martin-st-maarten": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-es/manage/check-in": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-aruba": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-los-angeles-from-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kamloops-to-victoria": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-myrtle-beach-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-atlanta-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-st-lucia-hewarnorra": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-winnipeg-to-cayo-coco": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-nassau": [
+    "broken-internal-links"
+  ],
+  "westjet.com/manage/bags/confirmation": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-palm-springs-from-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-grand-cayman-cayman-islands": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacations-to-st-lucia": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kamloops-to-abbotsford": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-fort-st-john": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/help": [
+    "broken-internal-links",
+    "structured-data",
+    "cwv"
+  ],
+  "westjet.com/book/cheap-flights-from-fort-myers-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-quebec-city-from-winnipeg": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/vacations/hotels/royalton-resorts": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-mx/airport/check-in": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-punta-cana-from-hamilton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/book-trip/flights/to-ottawa": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-hamilton-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-ca/vacances/forfaits-vacances-exclusifs": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-calgary-to-pittsburgh": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-ixtapa-zihuatanejo-from-vancouver": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kelowna-to-abbotsford": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-cancun-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-regina-to-orlando": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-fort-myers-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-orange-county-anaheim": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-to-calgary-from-boston": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-windsor-to-puerto-vallarta": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-fort-mcmurray": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-greensboro": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-grande-prairie-to-kelowna": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-st-johns-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-london-england-to-st-johns": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-pa/contact/feedback": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-yellowknife": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-abbotsford": [
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-saskatoon-to-varadero": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/caribbean/all-inclusive-vacation-packages-to-jamaica": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-st-johns": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-us/rewards/join": [
+    "broken-internal-links",
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-halifax-to-st-lucia-hewarnorra": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-puerto-vallarta": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-cayo-coco-to-toronto": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-prince-george-from-chicago": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-edmonton-to-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-fr/recompenses/adherer": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-edmonton-to-cancun": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-turks-and-caicos-from-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-houston": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/news/2024/guttentag--germany--westjet-directly-connects-five-canadian-citi": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-fort-lauderdale": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-vancouver-to-miami": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-nassau": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-cancun-from-montreal": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-st-johns-to-montego-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-terrace-to-calgary": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-victoria-to-quebec-city": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-kamloops-to-thunder-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/fr-ca/legal/modalites-conditions-voyages": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-nashville-to-edmonton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-montreal-to-cincinnati": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/last-minute-flights-from-saskatoon-to-hamilton": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-hamilton-to-brandon": [
+    "broken-internal-links"
+  ],
+  "westjet.com/es-us/airport/check-in": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-to-tampa-bay": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-abbotsford-to-puerto-vallarta": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-prince-george-to-terrace": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-mazatlan": [
+    "broken-internal-links"
+  ],
+  "westjet.com/book/cheap-flights-from-hamilton-to-yellowknife": [
+    "broken-internal-links"
+  ],
+  "westjet.com/en-ca/help/rewards": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/interruptions/delays-cancellations-changes": [
+    "structured-data",
+    "cwv"
+  ],
+  "westjet.com/en-ca/airport/parking-deals": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/destinations": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/news/2025/destination-hux-ideas-for-an-amazing-affordable-sun-holiday-in-huatulco-mexico": [
+    "structured-data"
+  ],
+  "westjet.com/en-ca/manage/vacations": [
+    "structured-data"
+  ],
+  "westjet.com/en-ca/news/2024/amfa-strike-forces-westjet-to-cancel-more-than-150-flights-begin": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/flights/fares": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-tt/flights/direct-flights": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/legal/tariffs": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-pa/baggage/lost-delayed-damaged": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-gb/baggage/allowance": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/legal/privacy-policy": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/get-travel-ready/advisories": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-gb/flights/status": [
+    "structured-data",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/best-of-travel/canada/park-yyc": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/sponsorship/toronto-blue-jays/offer": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/deals/vacations/3": [
+    "cwv"
+  ],
+  "westjet.com/en-is/flights/low-fares": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/deals/fathers-day/vacations": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/aircraft/boeing-787-9-dreamliner": [
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/news/2025/westjet-secures-its-largest-ever-aircraft-order-with-boeing": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/rewards-email/unsubscribe": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/world-elite/statuslift": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/deals/perkopolis": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/rewards/offers/bonus1": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/get-travel-ready/mandatory-pre-boarding-requirements": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/vacations/offers/multiple-offers-hyatt-inclusive": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/rewards/tiers/silver": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/contact/on-hold-self-serve": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/interruptions": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/contact/share-feedback": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/account/missing-rewards": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/deals/3": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/manage/upgrade": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/news/2025/westjet-announces-expanded-winter-schedule-with-more-sun-destina": [
+    "cwv"
+  ],
+  "westjet.com/en-pa": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/world-elite-business": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/flight-guide": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/news/2025/advisory--cybersecurity-incident-": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/deals/fathers-day/flights": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/vacations/offers/multiple-offers-bahia-principe": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/news/2025/westjet-announces-new-interline-agreement-with-copa-airlines--ex": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/best-of-travel/canada/richmond": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/best-of-travel/canada/new-brunswick": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/interruptions/canadian-passenger-rights": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/deals/labour-day/flights": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/deals/summer-sale/flights": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/cyberinfo": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/rewards/offers/upgrade-bid": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/reset-password": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/rewards/offers/bonus2": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/deals/member-exclusive": [
+    "cwv"
+  ],
+  "westjet.com/fr-ca/vols/etats": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/forgot-password-or-id": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/contact/phone": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/best-of-travel/europe": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/manage/change-cancel": [
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-us/manage/": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/manage/retrieve-itinerary": [
+    "cwv"
+  ],
+  "westjet.com/fr-ca": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/best-of-travel/asia": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/new-world-elite": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/manage/dashboard/details": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/manage/": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/account/rewards": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/manage/extended-comfort": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/account/settings": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/account": [
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/world-elite/fyf-cs": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/manage/upgrade/bidding": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/manage/check-in": [
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/aircraft/cabin-updates": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/deals/telus": [
+    "cwv"
+  ],
+  "westjet.com/en-gb/best-of-travel/canada": [
+    "cwv"
+  ],
+  "westjet.com/en-ca/baggage/carry-on": [
+    "cwv",
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-abbotsford": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-fort-mcmurray": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-toronto-to-winnipeg": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-winnipeg": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-saskatoon": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-saskatoon-to-las-vegas-nv": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-winnipeg": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-vancouver-to-honolulu-oahu": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-orlando": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-kahului-maui": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-toronto-to-fort-lauderdale": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-ottawa": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-brandon-manitoba-to-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-phoenix-az-a-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-fort-lauderdale-to-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-halifax": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-comox-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-toronto-to-new-york": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-montreal": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-toronto-a-montego-bay": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-toronto-to-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-st-johns-to-halifax": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-abbotsford-to-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-montreal": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-winnipeg": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-hamilton-to-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-moncton-to-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-thunder-bay-a-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-terrace-kitimat-to-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-london-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-halifax": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-ottawa-to-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-saskatoon-to-winnipeg": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-winnipeg-to-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-halifax-to-hamilton": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-montreal-to-fort-lauderdale": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-halifax-to-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-kitchener-waterloo": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-victoria": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-las-vegas-nv-to-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-montreal": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-palm-springs-to-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-grande-prairie-a-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/en-us/rewards/manage/buy-dollars": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-new-york": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-victoria-a-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-vancouver-a-phoenix-az": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-vancouver-to-los-angeles": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-moncton-a-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/en-us/rewards/benefits/milestones": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-comox-a-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-fort-mcmurray": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-grande-prairie-to-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-grande-prairie": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-victoria-to-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-comox": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-comox": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-toronto-a-los-angeles": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-aruba": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-regina": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-bermuda": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-vancouver-to-saskatoon": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-ottawa": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-saskatoon": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-nanaimo-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-victoria": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-halifax-to-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-vancouver-to-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-grande-prairie": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-palm-springs": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-terrace-kitimat-a-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-fort-mcmurray": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-regina-a-phoenix-az": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-montreal": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-halifax-to-st-johns": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-fort-mcmurray-a-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-toronto-to-kelowna": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-regina": [
+    "sitemap"
+  ],
+  "westjet.com/en-us/who-we-are/brand": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-vancouver-a-ottawa": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-phoenix-az-to-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-montreal": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-los-angeles": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-hamilton": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-winnipeg-to-palm-springs": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-ottawa-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-orlando": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-edmonton-to-hamilton": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-dublin-ireland": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-london-to-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-las-vegas-nv-a-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-ottawa-to-winnipeg": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-winnipeg-to-ottawa": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-saskatoon-to-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-london-united-kingdom-to-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-kitchener-waterloo": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-vancouver-to-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-regina-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-vancouver-a-honolulu-oahu": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-toronto-to-saskatoon": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-abbotsford": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-halifax-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-kamloops": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-hamilton": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-halifax": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-calgary-to-london": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-hamilton": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-los-angeles": [
+    "sitemap"
+  ],
+  "westjet.com#": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/book-trip/direct-flights/from-abbotsford-to-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-hamilton-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-phoenix-az": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-fort-lauderdale-a-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-toronto-a-nassau": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-halifax-a-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-saskatoon-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-kelowna": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-los-angeles": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-winnipeg-a-montreal": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-toronto-a-barbados": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-las-vegas-nv": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-los-angeles-a-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-palm-springs-a-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-toronto-a-moncton": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-regina-a-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-los-angeles": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-comox": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-regina-a-las-vegas-nv": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-vancouver-a-prince-george": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-new-york": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-san-diego": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-ottawa-a-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-toronto-a-halifax": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-fort-myers-a-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-palm-springs": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-fort-mcmurray": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-kamloops": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-hamilton-a-halifax": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-kelowna": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-abbotsford-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-toronto-a-las-vegas-nv": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-fort-st-john-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-montreal-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-winnipeg-a-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-vancouver-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-phoenix-az": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-hamilton-a-edmonton": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-nanaimo": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-fort-st-john": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-halifax-a-ottawa": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-edmonton-a-saskatoon": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-fort-mcmurray-a-kelowna": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-regina": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-toronto-a-orlando": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-grande-prairie-a-calgary": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-halifax-a-hamilton": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-toronto": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-fort-mcmurray-a-vancouver": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-calgary-a-abbotsford": [
+    "sitemap"
+  ],
+  "westjet.com/fr-ca/reserver-voyage/vols-directs/de-ottawa-a-winnipeg": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/help/westjet-cargo": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/special-needs/service-animals": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/media": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/jobs": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/special-needs/wheelchairs": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/who-we-are/partners": [
+    "sitemap"
+  ],
+  "westjet.com/en-ca/rewards/manage": [
+    "sitemap"
+  ],
+  "westjet.com/book/cheap-flights-from-victoria-to-edmonton": [
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-vacations-from-edmonton": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/jobs.com": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/help/discount-codes": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/legal/tariffs/international": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/offers": [
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-to-winnipeg": [
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-toronto-to-kelowna": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/contact/requests/exceptional-circumstances-refund-request": [
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-calgary-to-regina": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/destinations/europe": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJOE4/ocean-el-faro": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-regina": [
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-flights-from-edmonton-to-victoria": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/airport/priority-services": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/help/how-to-book-companion-voucher": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/terms-conditions": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/flights/groups/booking": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/news/2024/westjet-clarification-on-labour-strike-and-air-passenger-protect": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJRC2/royalton-chic-punta-cana": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/contact/requests/travel-agents-vacations": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJBV4/grand-bavaro-princess-all-suites-resort-spa-and-casino": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/baggage/sports": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNAS2/planet-hollywood-adult-scene-cancun": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/las-vegas-nv/LASFO3/fontainebleau-las-vegas": [
+    "meta-tags"
+  ],
+  "westjet.com/en-pa/flights/swoop": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/varadero/VRAPVA/playa-vista-azul": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJON2/dreams-onyx-resort-spa": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/careers/pilot": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/help/baggage": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNRP2/hilton-playa-del-carmen": [
+    "meta-tags"
+  ],
+  "westjet.com/en-pa/baggage": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNIP2/cancun-iberostar-selection-paraiso-maya-suites": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/montego-bay/MBJAB2/azul-beach-resort-negril-by-karisma": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNHT3/hilton-tulum-all-inclusive-resort": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJSC4/grand-sirenis-punta-cana-beach-resort": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/help/travel-credits": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNGS4/grand-sirenis-riviera-maya-resort": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNGC2/wyndham-alltra-cancun": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/curacao/CURRC2/sandals-royal-curacao": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/puerto-vallarta/PVRIP2/iberostar-selection-playa-mita": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/puerto-plata/POPBM4/marien-puerto-plata-hotel": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/negril/MBJBN2/montego-bay-jamaica-beaches-negril-resort-and-spa": [
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-vacations-to-canada": [
+    "meta-tags"
+  ],
+  "westjet.com/en-pa/help/baggage": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/flights/fees/baggage-fee-changes": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/partners": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJDM2/dreams-macao-beach-punta-cana": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/flights/fees": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/huatulco/HUXLB4/las-brisas-huatulco": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/credit-cards/rbc-world-elite-mastercard": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/kelowna/YLWHP2/hyatt-place-kelowna": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/ocho-rios-runaway-bay/MBJSD2/sandals-dunns-river": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/partners/car-rentals": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/help/rewards/westjet-dollars": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/puerto-vallarta/PVRNO2/dreams-vallarta-bay-resort-spa": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/book-trip/flights/from-toronto-to-calgary": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/account": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/puerto-vallarta/PVRME2/puerto-vallarta-melia-puerto-vallarta": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/puerto-vallarta/PVRCA4/canto-del-sol-puerto-vallarta": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNHR4/haven-riviera-cancun-resort-spa": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJSA4/serenade-all-suites-adults-only-resort": [
+    "meta-tags"
+  ],
+  "westjet.com/en-pa/manage/check-in": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNIM2/iberostar-waves-paraiso-del-mar": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/contact/phone": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNSK4/bahia-principe-luxury-sian-kaan": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/manzanillo/ZLOBK2/barcelo-karmina": [
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-hamilton-to-calgary": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/contact-us/contact-form": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/manage/upgrade": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJLO4/lopesan-costa-bavaro-resort-spa-casino": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/rewards/earn/car-rentals": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/offers/expired": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJLE4/bahia-principe-luxury-esmeralda": [
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-from-ottawa-to-calgary": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/interruptions/us-service-plan": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJNI2/nickelodeon-hotels-and-resorts-punta-cana": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNBL4/cancun-bluebay-grand-esmeralda/reviews": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/cancun/CUNMJ2/majestic-elegance-costa-mujeres": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/flights/low-fares": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/puerto-vallarta/PVRWY2/wyndham-alltra-vallarta": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/credit-cards/world-elite/benefits": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/liberia/LIROT2/occidental-tamarindo": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/help/travel-credits": [
+    "meta-tags"
+  ],
+  "westjet.com/en-jm": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/varadero/VRAAS4/grand-aston-varadero": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/puerto-vallarta/PVRHI2/krystal-grand-puerto-vallarta": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/riviera-maya/CUNRS2/cancun-trs-yucatan-hotel": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJOP2/occidental-punta-cana": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/special-needs/service-dogs": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/tiers": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/best-of-travel/canada/from-calgary": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/interruptions/submit-expenses": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/deals/fall-sale/flights": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/varadero/VRAIB4/iberostar-origin-laguna-azul": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/aircraft/boeing-737-800-next-generation": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/special-needs/questions": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJWY2/wyndham-alltra-punta-cana": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/aircraft/dehavilland-dash-8-400": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/disneyland-resort-in-california/LAXPPH/disneys-pixar-place-hotel": [
+    "meta-tags"
+  ],
+  "westjet.com/en-pa/pets": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/punta-cana/PUJHY2/hyatt-ziva-cap-cana": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/news/2024/westjet-group-statement-regarding-westjet-encore-alpa-strike-aut": [
+    "meta-tags"
+  ],
+  "westjet.com/book/last-minute-vacations": [
+    "meta-tags"
+  ],
+  "westjet.com/en-es/best-of-travel/canada": [
+    "meta-tags"
+  ],
+  "westjet.com/book/cheap-flights-to-victoria": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/partners/delta-air-lines": [
+    "meta-tags"
+  ],
+  "westjet.com/en-pa/deals": [
+    "meta-tags"
+  ],
+  "westjet.com/en-lc/manage/": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/help/entertainment": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/flights/direct-flights": [
+    "meta-tags"
+  ],
+  "westjet.com/en-us/rewards/contact-us/name-change": [
+    "meta-tags"
+  ],
+  "westjet.com/en-ca/hotels/puerto-vallarta/PVRSU2/sunscape-puerto-vallarta-resort-and-spa": [
+    "meta-tags"
+  ],
+  " https://www.westjet.com/en-ca/flights/low-fares/sun": [
+    "high-organic-low-ctr"
+  ]
+}

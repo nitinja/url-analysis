@@ -1,0 +1,488 @@
+{
+  "humana.com/agent/humana-agent-portal": [
+    "high-organic-low-ctr",
+    "cwv"
+  ],
+  "humana.com/pharmacy/over-the-counter-otc-benefits": [
+    "high-organic-low-ctr",
+    "alt-text",
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/medicare/medicare-programs/spending-account-card": [
+    "high-organic-low-ctr",
+    "cwv"
+  ],
+  "humana.com/dental-insurance": [
+    "high-organic-low-ctr",
+    "alt-text",
+    "cwv"
+  ],
+  "humana.com/pharmacy/medicare-drug-list": [
+    "high-organic-low-ctr",
+    "cwv"
+  ],
+  "humana.com/": [
+    "high-organic-low-ctr",
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/medicare/medicare-resources/what-is-medicare-part-d": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/hmo-vs-ppo": [
+    "alt-text",
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/dental-insurance/loyalty-plus-dental-ppo-plan": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/how-much-does-a-medicare-advantage-plan-cost": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-supplement-plans/plan-n": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/does-medicare-cover-hearing-aids": [
+    "alt-text"
+  ],
+  "humana.com/vision-insurance": [
+    "alt-text",
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/member/manage-your-account": [
+    "alt-text",
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/dental-insurance/dental-resources/dental-hmo-vs-ppo": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-supplement-open-enrollment": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/replace-medicare-card": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/scaling-root-planing-cost": [
+    "alt-text"
+  ],
+  "humana.com/home-care/primary-preventive-care/telephonic-care-management": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/surprising-medicare-advantage-benefits": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/what-is-medicare-advantage-part-c": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/how-much-does-a-frenectomy-cost": [
+    "alt-text"
+  ],
+  "humana.com/vision-insurance/humana-vision-plus-plan": [
+    "alt-text"
+  ],
+  "humana.com/home-care/primary-preventive-care/telehealth": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/part-a-b-deductibles-review": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/tooth-extraction": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/cost-of-dental-procedures": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/how-to-switch-medicare-plans": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/what-is-medicare": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-part-d-enrollment": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/how-much-is-dental-insurance": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/root-canals": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/are-there-medicare-death-benefits": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-renewal-do-you-enroll-each-year": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/dual-coverage-dental-insurance": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/dentures": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/does-medicare-cover-mental-health": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/dental-braces": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/cost-of-dental-bonding": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/dental-insurance-for-seniors-on-medicare": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/what-is-ppo": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/pharmacy/tools/discount-drug-program": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/rehab-physical-therapy-coverage": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/chipped-tooth": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/does-dental-insurance-cover-invisalign": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/using-hsa-fsa-for-dental-expenses": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/savings-plus-dental-discount-plan": [
+    "alt-text"
+  ],
+  "humana.com/dental-vision-hearing": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/dental-insurance-waiting-period": [
+    "alt-text"
+  ],
+  "humana.com/medicaid": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/ppo": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare/part-d-drug-plans": [
+    "alt-text",
+    "cwv"
+  ],
+  "humana.com/vision-insurance/find-an-eye-doctor": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/how-to-choose-a-dental-insurance-plan": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/plans-in-florida": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/compare-medicare-advantage-plans": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/does-medicare-cover-cataract-surgery": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/bright-plus-dental-plan": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/dental-crown-costs-coverage": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/plans-in-georgia": [
+    "alt-text"
+  ],
+  "humana.com/medicare/part-d-drug-plans/pdp-basic": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/what-does-dental-insurance-cover": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-part-b-excess-charges": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-value-hmo-dental-plan": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare": [
+    "alt-text",
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/medicare/medicare-resources/does-medicare-pay-for-assisted-living": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/preventive-dental-care": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-supplement-plans/plan-g": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/cost-of-dental-bridges": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/plans-in-california": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/types-of-braces": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/complete-dental-plan": [
+    "alt-text",
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/medicare/medicare-advantage-plans/humana-special-needs/c-snp": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/irmaa": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/students": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/self-employed": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/orthodontic-insurance": [
+    "alt-text"
+  ],
+  "humana.com/member": [
+    "alt-text",
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/does-medicare-cover-medical-alert-systems": [
+    "alt-text"
+  ],
+  "humana.com/dental-insurance/dental-resources/dental-implant-coverage": [
+    "alt-text"
+  ],
+  "humana.com/vision-insurance/vision-resources/optometrist-vs-ophthalmologist": [
+    "alt-text"
+  ],
+  "humana.com/medicare/medicare-resources/does-medicare-cover-nursing-homes": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/does-medicare-cover-ozempic": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-part-d-changes": [
+    "meta-tags"
+  ],
+  "humana.com/medicaid/florida-medicaid": [
+    "meta-tags"
+  ],
+  "humana.com/dental-vision-hearing/humana-extend-5000": [
+    "meta-tags"
+  ],
+  "humana.com/medicaid/ohio": [
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/find-a-dentist": [
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/dental-insurance/dental-resources/teeth-whitening": [
+    "meta-tags"
+  ],
+  "humana.com/vision-insurance/vision-resources/does-insurance-cover-lasik-eye-surgery": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/what-is-medicare-extra-help": [
+    "meta-tags"
+  ],
+  "humana.com/contact-us": [
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/medicare/medicare-resources/icep-medicare-enrollment": [
+    "meta-tags"
+  ],
+  "humana.com/find-care": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/mapd-vs-pdp": [
+    "meta-tags"
+  ],
+  "humana.com/agent/contact-us": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/what-does-medicare-cover": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/part-d-drug-plans/value-rx": [
+    "meta-tags"
+  ],
+  "humana.com/medicaid/find-a-doctor": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/does-medicare-cover-mri-scans": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/compare-medicare-supplement-plans": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/what-is-a-medicare-supplement-plan": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/does-medicare-cover-dental": [
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/dental-discount-cards": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-programs/healthy-options-allowance": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/are-medicare-premiums-tax-deductible": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/is-medicare-advantage-free": [
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/how-much-does-cavity-filling-cost": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-advantage-plans": [
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-part-d-cost": [
+    "meta-tags"
+  ],
+  "humana.com/home-care/home-health-personal-care": [
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/plans-in-texas": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-advantage-plans/humana-gold-plus-hmo": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-open-enrollment": [
+    "meta-tags"
+  ],
+  "humana.com/manage-your-health/achieving-health-goals/go-365": [
+    "meta-tags"
+  ],
+  "humana.com/finder/medical": [
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/cost-of-wisdom-teeth-removal": [
+    "meta-tags"
+  ],
+  "humana.com/pharmacy/medication-information/understanding-drug-tiers": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-supplement-plans": [
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/dental-insurance/dental-resources/cost-of-snap-in-dentures": [
+    "meta-tags"
+  ],
+  "humana.com/pharmacy": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-eligibility-age-and-qualifications": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-enrollment-periods": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/original-medicare-vs-medicare-advantage": [
+    "meta-tags"
+  ],
+  "humana.com/finder/network-providers": [
+    "meta-tags"
+  ],
+  "humana.com/agent/individual-and-family": [
+    "meta-tags"
+  ],
+  "humana.com/member/pay-your-premium": [
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/medicare/medicare-programs": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/chiropractic-care": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/part-b-giveback-benefit": [
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/full-coverage": [
+    "meta-tags"
+  ],
+  "humana.com/help": [
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-pet-scans": [
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/dental-xrays-cost": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-resources/medicare-supplemental-dental-insurance": [
+    "meta-tags"
+  ],
+  "humana.com/finder/search": [
+    "meta-tags"
+  ],
+  "humana.com/member/member-rights/disenrollment-and-cancellation": [
+    "meta-tags"
+  ],
+  "humana.com/dental-insurance/dental-resources/gum-disease-treatment": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/view-plans": [
+    "meta-tags",
+    "cwv"
+  ],
+  "humana.com/finder/pharmacy": [
+    "meta-tags"
+  ],
+  "humana.com/finder/vision": [
+    "meta-tags"
+  ],
+  "humana.com/medicare/medicare-advantage-plans/humana-choice-ppo": [
+    "cwv"
+  ],
+  "humana.com/agent": [
+    "cwv"
+  ],
+  "humana.com/site-search-results": [
+    "cwv"
+  ]
+}
