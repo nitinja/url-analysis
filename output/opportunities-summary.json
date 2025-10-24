@@ -1,0 +1,40 @@
+{
+  "totalUrls": 16420,
+  "bySite": {
+    "abbvie.com": 481,
+    "adobe.com": 5035,
+    "astrazeneca.com": 318,
+    "bamboohr.com": 841,
+    "berkshirepartners.com": 203,
+    "breville.com": 481,
+    "celestyal.com": 50,
+    "chocolateworld.com": 62,
+    "continental-tires.com": 274,
+    "crucial.com": 1033,
+    "hersheyland.com": 828,
+    "humana.com": 192,
+    "micron.com": 639,
+    "qualcomm.com": 599,
+    "sunstar.com": 165,
+    "t-mobile.com": 1239,
+    "volvotrucks.us": 446,
+    "westjet.com": 1537,
+    "wilson.com": 1056,
+    "auspost.com.au": 659,
+    "jet2.com": 282
+  },
+  "byOpportunityType": {
+    "Core Web Vitals Issues": 3126,
+    "Broken Backlinks": 8,
+    "Broken Internal Links": 1388,
+    "Missing from Sitemap": 6567,
+    "High Page Views, Low Form Views": 33,
+    "Meta Tags Issues": 4063,
+    "Missing Alt Text": 1235
+  },
+  "byPriority": {
+    "High": 4522,
+    "Medium": 6600,
+    "Low": 5298
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "totalSites": 21,
+  "totalPages": 3588,
+  "averagePagesPerSite": 170.86,
+  "minPages": 42,
+  "maxPages": 200,
+  "sitesWithTopPages": 21,
+  "sitesWithoutTopPages": 0,
+  "siteDetails": [
+    {
+      "siteNumber": 1,
+      "siteId": "92d24fa2-5e99-4d43-8799-84cba3385ae1",
+      "siteBaseURL": "www.qualcomm.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 2,
+      "siteId": "9b12429a-60ed-4e3b-9719-978b1c9d8397",
+      "siteBaseURL": "www.breville.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 3,
+      "siteId": "94d5d687-68b0-457f-aac8-760ed8e9045a",
+      "siteBaseURL": "www.crucial.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 4,
+      "siteId": "7b8f919a-162d-41bb-9869-ef4c7ad057e7",
+      "siteBaseURL": "www.micron.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 5,
+      "siteId": "1baa230b-d2dd-4ece-8803-4f24949faed0",
+      "siteBaseURL": "www.t-mobile.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 6,
+      "siteId": "c0b7b282-467e-47aa-b94f-e496265fde9e",
+      "siteBaseURL": "www.auspost.com.au",
+      "topPagesCount": 50
+    },
+    {
+      "siteNumber": 7,
+      "siteId": "e043d740-c365-436a-bf30-de5add3d1b7f",
+      "siteBaseURL": "www.abbvie.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 8,
+      "siteId": "b914bc7b-ec12-460a-899e-42bf252de356",
+      "siteBaseURL": "www.continental-tires.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 9,
+      "siteId": "393f9fd6-8062-49a5-acb0-a6a601abdc58",
+      "siteBaseURL": "www.berkshirepartners.com",
+      "topPagesCount": 151
+    },
+    {
+      "siteNumber": 10,
+      "siteId": "7e7a883c-5009-42dd-bf2e-e4cb3b643503",
+      "siteBaseURL": "www.astrazeneca.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 11,
+      "siteId": "d82b9d5f-4f38-4390-80cc-b55251d420b4",
+      "siteBaseURL": "www.humana.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 12,
+      "siteId": "9c25d632-420a-432e-8a82-555ba90879dd",
+      "siteBaseURL": "www.celestyal.com",
+      "topPagesCount": 50
+    },
+    {
+      "siteNumber": 13,
+      "siteId": "a8f00731-a43d-43ec-b348-31f57a5072de",
+      "siteBaseURL": "www.jet2.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 14,
+      "siteId": "9ae8877a-bbf3-407d-9adb-d6a72ce3c5e3",
+      "siteBaseURL": "www.adobe.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 15,
+      "siteId": "da39921f-9a02-41db-b491-02c98330d956",
+      "siteBaseURL": "www.bamboohr.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 16,
+      "siteId": "0535e81f-f826-465c-8853-3aad7c1b45ec",
+      "siteBaseURL": "www.volvotrucks.us",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 17,
+      "siteId": "542ad116-ed33-448a-a123-06cbcd7c1d4c",
+      "siteBaseURL": "www.sunstar.com",
+      "topPagesCount": 42
+    },
+    {
+      "siteNumber": 18,
+      "siteId": "68ba8c72-aab1-4a45-8bcc-79368d45caa4",
+      "siteBaseURL": "www.wilson.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 19,
+      "siteId": "0983c6da-0dee-45cc-b897-3f1fed6b460b",
+      "siteBaseURL": "www.hersheyland.com",
+      "topPagesCount": 200
+    },
+    {
+      "siteNumber": 20,
+      "siteId": "e12c091c-075b-4c94-aab7-398a04412b5c",
+      "siteBaseURL": "www.chocolateworld.com",
+      "topPagesCount": 95
+    },
+    {
+      "siteNumber": 21,
+      "siteId": "14220f09-7bdd-4c91-9adf-adcbe0adf1df",
+      "siteBaseURL": "www.westjet.com",
+      "topPagesCount": 200
+    }
+  ]
+}
